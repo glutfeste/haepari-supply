@@ -1,0 +1,23 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-frame-ddb36078c6a76053d924bd26",
+  "title": "체크리스트·점검표",
+  "kind": "frame",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%ED%8B%80/%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8%C2%B7%EC%A0%90%EA%B2%80%ED%91%9C.md",
+  "license": "LicenseRef-Haepari-Proprietary",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-frame-ddb36078c6a76053d924bd26/0.3.91/package.tar.gz",
+  "packageBytes": 1522,
+  "packageSha256": "1be1891a4739033fa77ce6978f5b6ea85f163492c1946872205c877b0f2c420c",
+  "entrypoint": "틀/체크리스트·점검표.md",
+  "files": [
+    {
+      "path": "틀/체크리스트·점검표.md",
+      "bytes": 5509,
+      "sha256": "03987a2774ac238175a1d071bddc572aa4c4a906029fc6be681bb2a3961e82df"
+    }
+  ]
+}

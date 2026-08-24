@@ -1,0 +1,43 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-ca451e5e455a0f25b24fc17d",
+  "title": "코드 악보",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%EC%83%9D%ED%99%9C/%EC%BD%94%EB%93%9C%20%EC%95%85%EB%B3%B4.md",
+  "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-ca451e5e455a0f25b24fc17d/0.3.91/package.tar.gz",
+  "packageBytes": 2748,
+  "packageSha256": "c0b99c7f0d846b22790900c6d0736ce3da907ffcf42249be76e74f01654b4531",
+  "entrypoint": "양식/생활/코드 악보.md",
+  "files": [
+    {
+      "path": "양식/생활/코드 악보 자료/LICENSE",
+      "bytes": 1062,
+      "sha256": "2bad614c2967df0d0d3a8e09c210fe5326835c4386d41a03c9cdbdcd55509778"
+    },
+    {
+      "path": "양식/생활/코드 악보 자료/main.typ",
+      "bytes": 160,
+      "sha256": "639d0560668c4410790d330e28c3ab67bdab2534a493a881d82b5ed6cc987d32"
+    },
+    {
+      "path": "양식/생활/코드 악보 자료/songs/Example Song.typ",
+      "bytes": 249,
+      "sha256": "3007764341cfede78de4aceffe1e4883df9057ae2bf07d3247354184d3a0415a"
+    },
+    {
+      "path": "양식/생활/코드 악보 자료/시작 문서.md",
+      "bytes": 1058,
+      "sha256": "72783a3cd6068ae0672c183b42a4aa374cd6cc3a2e0d525404822c68eb2c1fba"
+    },
+    {
+      "path": "양식/생활/코드 악보.md",
+      "bytes": 1952,
+      "sha256": "15563cc717c43b28b1084f0b2b09f62f46fa263196aef8b82519cbf73c3e4bd3"
+    }
+  ]
+}

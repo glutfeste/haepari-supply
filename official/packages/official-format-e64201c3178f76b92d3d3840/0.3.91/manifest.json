@@ -1,0 +1,23 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-e64201c3178f76b92d3d3840",
+  "title": "법학 답안지",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EA%B5%90/%EB%B2%95%ED%95%99%20%EB%8B%B5%EC%95%88%EC%A7%80.md",
+  "license": "LicenseRef-Haepari-Proprietary",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-e64201c3178f76b92d3d3840/0.3.91/package.tar.gz",
+  "packageBytes": 1579,
+  "packageSha256": "074649bfb5fcc507d29fe1621f9daeb55ba704a834cff7777b82f70a15ece395",
+  "entrypoint": "양식/학교/법학 답안지.md",
+  "files": [
+    {
+      "path": "양식/학교/법학 답안지.md",
+      "bytes": 2891,
+      "sha256": "ee41beb8a524d0cdb8d22207a1fba5dcc92d545b7d50f44280905933b55a89ec"
+    }
+  ]
+}

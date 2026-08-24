@@ -1,0 +1,23 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-66c3a1d0e8a87ff89ed6e2db",
+  "title": "서울대 학위논문",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EC%88%A0/%EC%84%9C%EC%9A%B8%EB%8C%80%20%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8.md",
+  "license": "LicenseRef-Haepari-Proprietary",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-66c3a1d0e8a87ff89ed6e2db/0.3.91/package.tar.gz",
+  "packageBytes": 1475,
+  "packageSha256": "2f832e29d0d691c30bd89999709f3648017b3a4615e4aff371fd820635c0124a",
+  "entrypoint": "양식/학술/서울대 학위논문.md",
+  "files": [
+    {
+      "path": "양식/학술/서울대 학위논문.md",
+      "bytes": 2465,
+      "sha256": "f58a77f3b42241781c9e5d72f55cc714f27bbc8f168402f38fc453c624cb093d"
+    }
+  ]
+}

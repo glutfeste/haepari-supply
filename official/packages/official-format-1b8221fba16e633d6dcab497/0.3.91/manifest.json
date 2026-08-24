@@ -1,0 +1,38 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-1b8221fba16e633d6dcab497",
+  "title": "시험 문제지",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EA%B5%90/%EC%8B%9C%ED%97%98%20%EB%AC%B8%EC%A0%9C%EC%A7%80.md",
+  "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-1b8221fba16e633d6dcab497/0.3.91/package.tar.gz",
+  "packageBytes": 3406,
+  "packageSha256": "df124f97e2dcc550a44d18186fa68646e5943e64602ac684a9a03c475d11a713",
+  "entrypoint": "양식/학교/시험 문제지.md",
+  "files": [
+    {
+      "path": "양식/학교/시험 문제지 자료/LICENSE",
+      "bytes": 1092,
+      "sha256": "e1edf05eb722f27303de7a6cdf9d6234410d68db50573cb13d02e23f7afe1ac4"
+    },
+    {
+      "path": "양식/학교/시험 문제지 자료/main.typ",
+      "bytes": 566,
+      "sha256": "7caa4562ada93dfa755fc458a6a2b938b2654fd01c911a61f6563a4636a33257"
+    },
+    {
+      "path": "양식/학교/시험 문제지 자료/시작 문서.md",
+      "bytes": 4167,
+      "sha256": "94eeb4bfb58b03d9eb8d111ae1e400f6b0ee747912d73d3bbef042b0040432a2"
+    },
+    {
+      "path": "양식/학교/시험 문제지.md",
+      "bytes": 1836,
+      "sha256": "2f17cb3bb0e9f45151ec30dd246ab8a2347ec74ed7dacc5ad541679fa211eaf7"
+    }
+  ]
+}

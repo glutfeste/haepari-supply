@@ -1,0 +1,43 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-9428b38d45de2b4b51c55e5b",
+  "title": "찰머스공대 학위논문",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EC%88%A0/%ED%95%B4%EC%99%B8/%EC%B0%B0%EB%A8%B8%EC%8A%A4%EA%B3%B5%EB%8C%80%20%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8.md",
+  "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-9428b38d45de2b4b51c55e5b/0.3.91/package.tar.gz",
+  "packageBytes": 4038,
+  "packageSha256": "c536d5fffe775a8fdd925f28438f5cb5e000f8b568a6e0ee46e8c67ae438c4bd",
+  "entrypoint": "양식/학술/해외/찰머스공대 학위논문.md",
+  "files": [
+    {
+      "path": "양식/학술/해외/찰머스공대 학위논문 자료/LICENSE",
+      "bytes": 1104,
+      "sha256": "009b002d466f47d9fbd38fa104c62944464d59864b55134a4a7e2c71f6701753"
+    },
+    {
+      "path": "양식/학술/해외/찰머스공대 학위논문 자료/main.typ",
+      "bytes": 1653,
+      "sha256": "033650351ec4e7cd8612b25aa8403843d7fc86ee2ac4265e43c4a77f02d305dc"
+    },
+    {
+      "path": "양식/학술/해외/찰머스공대 학위논문 자료/references.yaml",
+      "bytes": 231,
+      "sha256": "642b88655e902f080bc603deda0dbc5bad52b70ba8092469d5bb3fe88b93a4d4"
+    },
+    {
+      "path": "양식/학술/해외/찰머스공대 학위논문 자료/시작 문서.md",
+      "bytes": 4820,
+      "sha256": "e567acce165950de9534e46460851a766a748ddea7dfc56a3f30e890e4f357ac"
+    },
+    {
+      "path": "양식/학술/해외/찰머스공대 학위논문.md",
+      "bytes": 1490,
+      "sha256": "0c83877a045bc11af5a9014a7ffacc450ede44ff283bf0a0cde10aa0012234b6"
+    }
+  ]
+}

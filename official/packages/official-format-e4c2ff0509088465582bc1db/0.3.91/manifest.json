@@ -1,0 +1,73 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-e4c2ff0509088465582bc1db",
+  "title": "MIT 학위논문",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EC%88%A0/%ED%95%B4%EC%99%B8/MIT%20%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8.md",
+  "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-e4c2ff0509088465582bc1db/0.3.91/package.tar.gz",
+  "packageBytes": 16805,
+  "packageSha256": "8ad24ee5d3d6d75062bbdda182a33040a5e74da8cde0d56339e3f638c3f2b14e",
+  "entrypoint": "양식/학술/해외/MIT 학위논문.md",
+  "files": [
+    {
+      "path": "양식/학술/해외/MIT 학위논문 자료/LICENSE",
+      "bytes": 1090,
+      "sha256": "94aeab634dd3311ebb6c50ab3292e7912d77afbcd8604b0660a82b0b59d41227"
+    },
+    {
+      "path": "양식/학술/해외/MIT 학위논문 자료/MIT-Thesis.typ",
+      "bytes": 5833,
+      "sha256": "8dbf9ee225ec5f7861317cd74f04be06bc833e73cd71b94d22a59d7e9c238433"
+    },
+    {
+      "path": "양식/학술/해외/MIT 학위논문 자료/abstract.typ",
+      "bytes": 894,
+      "sha256": "d929d5cc5d22a0195e8960c0659c7e27ee92b262aa1cc07b91f69ccd07e4e35f"
+    },
+    {
+      "path": "양식/학술/해외/MIT 학위논문 자료/acknowledgments.typ",
+      "bytes": 208,
+      "sha256": "b1685f29663bf9af06a989ae7f898573b73dda9042966ca8d9d6859bb29cd5db"
+    },
+    {
+      "path": "양식/학술/해외/MIT 학위논문 자료/appendixa.typ",
+      "bytes": 1460,
+      "sha256": "c9ae6c9e19818e58f6a1009a79f4a74e189a0c886df63cf6a2c06692bd4ed4ea"
+    },
+    {
+      "path": "양식/학술/해외/MIT 학위논문 자료/appendixb.typ",
+      "bytes": 7394,
+      "sha256": "b2039214c10dbebc1821b8aaf72b6dd02385d43d42179b9044efa4e528fcf5fa"
+    },
+    {
+      "path": "양식/학술/해외/MIT 학위논문 자료/biography.typ",
+      "bytes": 1832,
+      "sha256": "4585c56532e2a1b7ed65571d35c83579a08f656a31616133b704d4a9387c1d59"
+    },
+    {
+      "path": "양식/학술/해외/MIT 학위논문 자료/chapter1.typ",
+      "bytes": 7861,
+      "sha256": "d88099517addfa6b0950cd16bf5f1a9fdd4984b1970047b4012a4cd7566b692a"
+    },
+    {
+      "path": "양식/학술/해외/MIT 학위논문 자료/mitthesis-sample.bib",
+      "bytes": 12046,
+      "sha256": "fc1405c89051f6a32d726ced40f02e71d106358ff6d9f27ff6c99520b2316dac"
+    },
+    {
+      "path": "양식/학술/해외/MIT 학위논문 자료/시작 문서.md",
+      "bytes": 8276,
+      "sha256": "0422ac541dc72e1d04d6f59b36c7f0f2bf1ac3bbe1fd6ef7cde646e57cef19a5"
+    },
+    {
+      "path": "양식/학술/해외/MIT 학위논문.md",
+      "bytes": 1790,
+      "sha256": "dedece43761f014dbe3be4181e287355ddd86098b242b3906baf69fc18cadf04"
+    }
+  ]
+}

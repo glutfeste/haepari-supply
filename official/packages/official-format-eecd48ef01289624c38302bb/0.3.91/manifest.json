@@ -1,0 +1,88 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-eecd48ef01289624c38302bb",
+  "title": "토론토대 학위논문",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EC%88%A0/%ED%95%B4%EC%99%B8/%ED%86%A0%EB%A1%A0%ED%86%A0%EB%8C%80%20%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8.md",
+  "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-eecd48ef01289624c38302bb/0.3.91/package.tar.gz",
+  "packageBytes": 3953,
+  "packageSha256": "9cac47398fa6f7af609fb6d9fb80a3545e1a5d3f0a93b8aa5615a17b709bbfde",
+  "entrypoint": "양식/학술/해외/토론토대 학위논문.md",
+  "files": [
+    {
+      "path": "양식/학술/해외/토론토대 학위논문 자료/LICENSE",
+      "bytes": 1094,
+      "sha256": "88ae26bee2a2e35b37b9d9ed6016c8e9e889ec311ad15f0ffe0c8d2e2ef181ef"
+    },
+    {
+      "path": "양식/학술/해외/토론토대 학위논문 자료/abstract.typ",
+      "bytes": 13,
+      "sha256": "ae8395edb9e6300db59776d86848f86bbf952602de5d680e9c7e92e63117e330"
+    },
+    {
+      "path": "양식/학술/해외/토론토대 학위논문 자료/acknowledgements.typ",
+      "bytes": 13,
+      "sha256": "68bb1716ba9e1d585de791bc94d742a753f1ab39dc513534d67b6a55ad658aa0"
+    },
+    {
+      "path": "양식/학술/해외/토론토대 학위논문 자료/appendix.typ",
+      "bytes": 130,
+      "sha256": "64b7163e1dc4363d232f02d09063f7aa26c4880e1cfb9e5e68a95c06d66a4c90"
+    },
+    {
+      "path": "양식/학술/해외/토론토대 학위논문 자료/ch1.typ",
+      "bytes": 498,
+      "sha256": "1d0e94cdedea89be4a886505d13a783fde3020e03c24b2a02fe7376cf0600af4"
+    },
+    {
+      "path": "양식/학술/해외/토론토대 학위논문 자료/ch2.typ",
+      "bytes": 75,
+      "sha256": "e9acf091c0f15aee77d2234b92e4f36e0d3d9771734b1e71ece4b8f467cfe72f"
+    },
+    {
+      "path": "양식/학술/해외/토론토대 학위논문 자료/ch3.typ",
+      "bytes": 74,
+      "sha256": "adc792f1411ca3f4fcae5ccf8ff2e6689338c617a4eaa98f6f6f8c36987cd951"
+    },
+    {
+      "path": "양식/학술/해외/토론토대 학위논문 자료/ch4.typ",
+      "bytes": 90,
+      "sha256": "8b0128f57c39282c12e579b5fb706002a0bab0ad3ffe93415c6064dbc66d75bc"
+    },
+    {
+      "path": "양식/학술/해외/토론토대 학위논문 자료/introduction.typ",
+      "bytes": 24,
+      "sha256": "7e4d323c9e10528e050c3da4a152d173c3c42cf2534c9e80bbc2ce1696b4da33"
+    },
+    {
+      "path": "양식/학술/해외/토론토대 학위논문 자료/main.typ",
+      "bytes": 624,
+      "sha256": "30c2964fe286e58443383ea4c2114bd7e89093abc2407dc2e285d67c0f0502cf"
+    },
+    {
+      "path": "양식/학술/해외/토론토대 학위논문 자료/references.bib",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "양식/학술/해외/토론토대 학위논문 자료/references.typ",
+      "bytes": 54,
+      "sha256": "c415db3375362b92d598a193cbc9c452ed6667536e1305d3cb7a8250613fbc28"
+    },
+    {
+      "path": "양식/학술/해외/토론토대 학위논문 자료/시작 문서.md",
+      "bytes": 2681,
+      "sha256": "532d662ddcf5f80e4f040d3f815a5001452052d42e2a0b0869be9cf89c63a5e4"
+    },
+    {
+      "path": "양식/학술/해외/토론토대 학위논문.md",
+      "bytes": 2542,
+      "sha256": "e221d7baafc9274e97eb71f1c79dcb489df6e65cbec8c29eb5a4b7eb95d9369b"
+    }
+  ]
+}

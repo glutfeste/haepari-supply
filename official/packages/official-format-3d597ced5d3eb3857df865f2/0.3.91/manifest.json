@@ -1,0 +1,23 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-3d597ced5d3eb3857df865f2",
+  "title": "민사 소장",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%EB%B2%95%EB%A5%A0/%EB%AF%BC%EC%82%AC%20%EC%86%8C%EC%9E%A5.md",
+  "license": "LicenseRef-Haepari-Proprietary",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-3d597ced5d3eb3857df865f2/0.3.91/package.tar.gz",
+  "packageBytes": 2481,
+  "packageSha256": "39450e82024d54097aef8029694bab2e4179437be2a23e4a8b588c2b5faaa972",
+  "entrypoint": "양식/법률/민사 소장.md",
+  "files": [
+    {
+      "path": "양식/법률/민사 소장.md",
+      "bytes": 5048,
+      "sha256": "9016ea1a8deca67be2c2addbefd787fadd27a595e783bfdc61a4d316608c4740"
+    }
+  ]
+}

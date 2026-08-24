@@ -1,0 +1,23 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-frame-6a4fcce8c6f1865d7ba0ac1c",
+  "title": "그림과 설명",
+  "kind": "frame",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%ED%8B%80/%EA%B7%B8%EB%A6%BC%EA%B3%BC%20%EC%84%A4%EB%AA%85.md",
+  "license": "LicenseRef-Haepari-Proprietary",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-frame-6a4fcce8c6f1865d7ba0ac1c/0.3.91/package.tar.gz",
+  "packageBytes": 897,
+  "packageSha256": "be3b6c231db19142adf1c931b026e4fbdbbaf52ec3c338298fa1b9e406fca5a1",
+  "entrypoint": "틀/그림과 설명.md",
+  "files": [
+    {
+      "path": "틀/그림과 설명.md",
+      "bytes": 1844,
+      "sha256": "d06707bfba31fe0464d2b2412dcccd4d5146a44cbbb2d49b4a1c39bd02b66b49"
+    }
+  ]
+}

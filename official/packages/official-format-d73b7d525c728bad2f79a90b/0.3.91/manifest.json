@@ -1,0 +1,23 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-d73b7d525c728bad2f79a90b",
+  "title": "보도자료",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%EA%B3%B5%EA%B3%B5/%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C.md",
+  "license": "LicenseRef-Haepari-Proprietary",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-d73b7d525c728bad2f79a90b/0.3.91/package.tar.gz",
+  "packageBytes": 2936,
+  "packageSha256": "6901c7011473dace89635ba134a9e9fce939aba09333d728bb0265cac1452147",
+  "entrypoint": "양식/공공/보도자료.md",
+  "files": [
+    {
+      "path": "양식/공공/보도자료.md",
+      "bytes": 6356,
+      "sha256": "3b545a956674aeb2404808e907bd5a76ffa8bb2d5a5493129d12dfc6909e56ad"
+    }
+  ]
+}

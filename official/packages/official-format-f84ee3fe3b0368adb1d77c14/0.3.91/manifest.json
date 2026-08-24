@@ -1,0 +1,23 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-f84ee3fe3b0368adb1d77c14",
+  "title": "기안문",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%EA%B3%B5%EA%B3%B5/%EA%B8%B0%EC%95%88%EB%AC%B8.md",
+  "license": "LicenseRef-Haepari-Proprietary",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-f84ee3fe3b0368adb1d77c14/0.3.91/package.tar.gz",
+  "packageBytes": 2350,
+  "packageSha256": "e5005a767b294ae9fdfb8f6972ba8dfd1e5c4bc67d2f1d0105ab11fe5b986d1a",
+  "entrypoint": "양식/공공/기안문.md",
+  "files": [
+    {
+      "path": "양식/공공/기안문.md",
+      "bytes": 4731,
+      "sha256": "b97a8ab92ba92e9660f1f3dca3cb435b3c358b39bb4211eb193338d95c39561e"
+    }
+  ]
+}

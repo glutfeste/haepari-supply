@@ -1,0 +1,23 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-241d32d131416cc247182f70",
+  "title": "경희대 학위논문",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EC%88%A0/%EA%B2%BD%ED%9D%AC%EB%8C%80%20%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8.md",
+  "license": "LicenseRef-Haepari-Proprietary",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-241d32d131416cc247182f70/0.3.91/package.tar.gz",
+  "packageBytes": 4219,
+  "packageSha256": "9a52e7adc610b5650c17259a2ccf66208e87968092066893fb968046239e7c42",
+  "entrypoint": "양식/학술/경희대 학위논문.md",
+  "files": [
+    {
+      "path": "양식/학술/경희대 학위논문.md",
+      "bytes": 9465,
+      "sha256": "19d83a3c10d2a5557d6f1d4820bb4c71d05e5aa3bb1437f2f187dbdfcc79bfc1"
+    }
+  ]
+}

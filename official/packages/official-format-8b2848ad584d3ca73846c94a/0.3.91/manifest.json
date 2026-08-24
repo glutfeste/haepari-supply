@@ -1,0 +1,43 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-8b2848ad584d3ca73846c94a",
+  "title": "UC 버클리 학위논문",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EC%88%A0/%ED%95%B4%EC%99%B8/UC%20%EB%B2%84%ED%81%B4%EB%A6%AC%20%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8.md",
+  "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-8b2848ad584d3ca73846c94a/0.3.91/package.tar.gz",
+  "packageBytes": 6176,
+  "packageSha256": "61b83e5e8652090e31d96ef30d5eb45242a69295042b528fed8eaf9955e17cd9",
+  "entrypoint": "양식/학술/해외/UC 버클리 학위논문.md",
+  "files": [
+    {
+      "path": "양식/학술/해외/UC 버클리 학위논문 자료/LICENSE",
+      "bytes": 898,
+      "sha256": "602bdb3162ecc0116eba01b8aefe80306f65aeaec122d4bb17f927dd820e9ca2"
+    },
+    {
+      "path": "양식/학술/해외/UC 버클리 학위논문 자료/main.typ",
+      "bytes": 7216,
+      "sha256": "8ac1ccceee11c1d3524bbd37a976654dcdfe815beef9ee526745a64ecd5873ea"
+    },
+    {
+      "path": "양식/학술/해외/UC 버클리 학위논문 자료/references.bib",
+      "bytes": 1913,
+      "sha256": "91e4062fa79807cd889883249bc17e296344135bf0a8b16184316c08d0ff977b"
+    },
+    {
+      "path": "양식/학술/해외/UC 버클리 학위논문 자료/시작 문서.md",
+      "bytes": 4383,
+      "sha256": "645c423b4550cb767125de1ecd76847765cf5ba75a9034e4ca33bbbc69d7c551"
+    },
+    {
+      "path": "양식/학술/해외/UC 버클리 학위논문.md",
+      "bytes": 1866,
+      "sha256": "a4e7f615b9a32331a737b9f3e281d65914e2f6d24f538297fa1cd676e09666fc"
+    }
+  ]
+}

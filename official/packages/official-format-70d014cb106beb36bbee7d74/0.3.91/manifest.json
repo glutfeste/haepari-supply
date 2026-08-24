@@ -1,0 +1,38 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-70d014cb106beb36bbee7d74",
+  "title": "오슬로대 학위논문",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EC%88%A0/%ED%95%B4%EC%99%B8/%EC%98%A4%EC%8A%AC%EB%A1%9C%EB%8C%80%20%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8.md",
+  "license": "LicenseRef-Haepari-Proprietary AND (MIT-0)",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-70d014cb106beb36bbee7d74/0.3.91/package.tar.gz",
+  "packageBytes": 2726,
+  "packageSha256": "9e3a95cc02af62e118db7c9ed9535d9cfcc8974aec19ec9a4900fb5e2b47cb5b",
+  "entrypoint": "양식/학술/해외/오슬로대 학위논문.md",
+  "files": [
+    {
+      "path": "양식/학술/해외/오슬로대 학위논문 자료/LICENSE",
+      "bytes": 956,
+      "sha256": "226f23b4c0cc77d791acca2aa2020dca2fd1d53f4608da331e8e03995a02c83f"
+    },
+    {
+      "path": "양식/학술/해외/오슬로대 학위논문 자료/main.typ",
+      "bytes": 662,
+      "sha256": "05226106562c930ef80b9fcc590e77dea4ed1cf2f28c1b2affec4942952e3a33"
+    },
+    {
+      "path": "양식/학술/해외/오슬로대 학위논문 자료/시작 문서.md",
+      "bytes": 1993,
+      "sha256": "366cf0da1374dab241225cd5997ef630f4e144650a5dc1f39085cd0d3b671724"
+    },
+    {
+      "path": "양식/학술/해외/오슬로대 학위논문.md",
+      "bytes": 1455,
+      "sha256": "30ebd7e7dd009e435c26f02be36bfbb83d3d2e46233293c10205e2d5e47143da"
+    }
+  ]
+}

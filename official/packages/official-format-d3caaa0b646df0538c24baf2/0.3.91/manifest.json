@@ -1,0 +1,38 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-d3caaa0b646df0538c24baf2",
+  "title": "요리책",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%EC%83%9D%ED%99%9C/%EC%9A%94%EB%A6%AC%EC%B1%85.md",
+  "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-d3caaa0b646df0538c24baf2/0.3.91/package.tar.gz",
+  "packageBytes": 3030,
+  "packageSha256": "bb56b021b199c0a989da3b1fe174ec69375e856a3563ad0a8ebb17e37eb5a2cc",
+  "entrypoint": "양식/생활/요리책.md",
+  "files": [
+    {
+      "path": "양식/생활/요리책 자료/LICENSE",
+      "bytes": 1111,
+      "sha256": "86f06e27669eb04ce8fb5cfec1e956b344edb5ee8e559945e675460e4a93e9ac"
+    },
+    {
+      "path": "양식/생활/요리책 자료/main.typ",
+      "bytes": 1364,
+      "sha256": "6ef663d6fcef602cc4c55ef8535db61cd33b79daafa07f9915c5c790dbe1bcd1"
+    },
+    {
+      "path": "양식/생활/요리책 자료/시작 문서.md",
+      "bytes": 1341,
+      "sha256": "1b91497076ec396e51bb35fd88850fdbdaef92f7f8f86da0d95404b8932041b2"
+    },
+    {
+      "path": "양식/생활/요리책.md",
+      "bytes": 1940,
+      "sha256": "fcd28273cac739aca3042f88d4e12d5e28759c0dcc16b227be5ac8988672be1d"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-frame-35c9a3abbe587c4a8413fd44",
+  "title": "도움말 상자",
+  "kind": "frame",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%ED%8B%80/%EB%8F%84%EC%9B%80%EB%A7%90%20%EC%83%81%EC%9E%90.md",
+  "license": "LicenseRef-Haepari-Proprietary",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-frame-35c9a3abbe587c4a8413fd44/0.3.91/package.tar.gz",
+  "packageBytes": 1209,
+  "packageSha256": "857ea37337f2c89be46237d6051db604fba0e6442ea5e96b2d75c048b3a467b3",
+  "entrypoint": "틀/도움말 상자.md",
+  "files": [
+    {
+      "path": "틀/도움말 상자.md",
+      "bytes": 3394,
+      "sha256": "fd4bcc6dfdf87068a3ecb535a7457297d4c6f3b9cd9a26e3faa2dc4428c744f9"
+    }
+  ]
+}

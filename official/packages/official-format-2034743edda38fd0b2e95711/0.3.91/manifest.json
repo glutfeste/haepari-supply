@@ -1,0 +1,23 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-2034743edda38fd0b2e95711",
+  "title": "학회 논문 (IEEE)",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EC%88%A0/%ED%95%99%ED%9A%8C%20%EB%85%BC%EB%AC%B8%20(IEEE).md",
+  "license": "LicenseRef-Haepari-Proprietary",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-2034743edda38fd0b2e95711/0.3.91/package.tar.gz",
+  "packageBytes": 1090,
+  "packageSha256": "25dd4930f652774596de77e95050510cf4bb948d852e3ca55f09af0b5005796e",
+  "entrypoint": "양식/학술/학회 논문 (IEEE).md",
+  "files": [
+    {
+      "path": "양식/학술/학회 논문 (IEEE).md",
+      "bytes": 1555,
+      "sha256": "e291250a9cb1a1515fc4235f19f9379892566ea7cea74873509a3de80feb9930"
+    }
+  ]
+}

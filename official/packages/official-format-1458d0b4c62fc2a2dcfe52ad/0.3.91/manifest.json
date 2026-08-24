@@ -1,0 +1,103 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-1458d0b4c62fc2a2dcfe52ad",
+  "title": "케이프타운대 학위논문",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EC%88%A0/%ED%95%B4%EC%99%B8/%EC%BC%80%EC%9D%B4%ED%94%84%ED%83%80%EC%9A%B4%EB%8C%80%20%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8.md",
+  "license": "LicenseRef-Haepari-Proprietary AND (MIT-0)",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-1458d0b4c62fc2a2dcfe52ad/0.3.91/package.tar.gz",
+  "packageBytes": 5060896,
+  "packageSha256": "c40b34e8393b0ed40f443cfce7578cd83c6ebeef00ebb0ca782cd74f835b6e75",
+  "entrypoint": "양식/학술/해외/케이프타운대 학위논문.md",
+  "files": [
+    {
+      "path": "양식/학술/해외/케이프타운대 학위논문 자료/LICENSE",
+      "bytes": 931,
+      "sha256": "aeb54cf6f26e4bd11a0e0d3254d13a521ced7e9a61a465247dc14d81279b3f16"
+    },
+    {
+      "path": "양식/학술/해외/케이프타운대 학위논문 자료/chapters/chapter01.typ",
+      "bytes": 2498,
+      "sha256": "6c6b08936bae12f522fff25fbfa4c67980c7ab411f245ebbf832ab2274546081"
+    },
+    {
+      "path": "양식/학술/해외/케이프타운대 학위논문 자료/chapters/chapter02.typ",
+      "bytes": 1670,
+      "sha256": "e0e29aed68df7f06b3d4a8725f4442cac33853cd0e2982d7741d8cffd1926932"
+    },
+    {
+      "path": "양식/학술/해외/케이프타운대 학위논문 자료/chapters/chapter03.typ",
+      "bytes": 528,
+      "sha256": "c7bed8576f64a083596cc76157779ea98e6fe8e0a77857546e7f3e7a98940ef7"
+    },
+    {
+      "path": "양식/학술/해외/케이프타운대 학위논문 자료/chapters/chapter04.typ",
+      "bytes": 2825,
+      "sha256": "b94ff10468f0bc88bab30fa0955fbec8504275fa994ec4164dbc359c2439f47b"
+    },
+    {
+      "path": "양식/학술/해외/케이프타운대 학위논문 자료/chapters/chapter05.typ",
+      "bytes": 1245,
+      "sha256": "9c65bb6421a07c11bd9a32d6f5d400b283ed1d0909cf394556a743b693e9748a"
+    },
+    {
+      "path": "양식/학술/해외/케이프타운대 학위논문 자료/chapters/chapter06.typ",
+      "bytes": 624,
+      "sha256": "adb4dde3480dd3e6ee57c6724c2d99dbe9c6e99960b4c249949b9c679af1308f"
+    },
+    {
+      "path": "양식/학술/해외/케이프타운대 학위논문 자료/chapters/chapter07.typ",
+      "bytes": 422,
+      "sha256": "35bcf0f64eddb84a2e69b3758ec1d9a706423b90f2f98ccef443d70c130f4b35"
+    },
+    {
+      "path": "양식/학술/해외/케이프타운대 학위논문 자료/graphics/antarctic_environments.png",
+      "bytes": 1047042,
+      "sha256": "f5ca8b2a296d882e97378071bf83ee1e91e7a47a9f4be80ee1d3197e7dc97951"
+    },
+    {
+      "path": "양식/학술/해외/케이프타운대 학위논문 자료/graphics/esn_architecture.png",
+      "bytes": 978086,
+      "sha256": "6d99dd02cdfb8eddc8158059cacbb7eac54c8ae1863e0ee8599a8d1a01257999"
+    },
+    {
+      "path": "양식/학술/해외/케이프타운대 학위논문 자료/graphics/phd_gantt_v3.png",
+      "bytes": 1021417,
+      "sha256": "70f80b92811f077ecbcdb144f81ea50b60b09a84aa69b463374a2238285a2327"
+    },
+    {
+      "path": "양식/학술/해외/케이프타운대 학위논문 자료/graphics/simb.png",
+      "bytes": 989202,
+      "sha256": "12ba3a570a9944123edcf0067e91c311574654a6ab541769df2633d14c512f6a"
+    },
+    {
+      "path": "양식/학술/해외/케이프타운대 학위논문 자료/graphics/wave_glider.png",
+      "bytes": 1012219,
+      "sha256": "6f8637a3318cd757aa3a23ec0712259491ac59737d4e4a95359b3606e9b714a5"
+    },
+    {
+      "path": "양식/학술/해외/케이프타운대 학위논문 자료/main.typ",
+      "bytes": 4609,
+      "sha256": "d40260227cecb2adbdbbb715841359ba8c262f35defafe511c4a419a6930da00"
+    },
+    {
+      "path": "양식/학술/해외/케이프타운대 학위논문 자료/references.bib",
+      "bytes": 207,
+      "sha256": "fbc67c692d5d825efde15819208f55a506b2a193c1262b6608a21044e730ba0b"
+    },
+    {
+      "path": "양식/학술/해외/케이프타운대 학위논문 자료/시작 문서.md",
+      "bytes": 11955,
+      "sha256": "0dafeb2c3d67b8b062f8002f912027c262841ece0f58be6b1c8a4a7bdee0a558"
+    },
+    {
+      "path": "양식/학술/해외/케이프타운대 학위논문.md",
+      "bytes": 2182,
+      "sha256": "cb5d7f00e54999cd1c79313856bc68cb98c5fbfcc5d1b67fa2644dd28c267776"
+    }
+  ]
+}

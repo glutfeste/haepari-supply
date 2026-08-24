@@ -1,0 +1,23 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-5dbe647964627f1b4c087878",
+  "title": "연세대 학위논문",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EC%88%A0/%EC%97%B0%EC%84%B8%EB%8C%80%20%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8.md",
+  "license": "LicenseRef-Haepari-Proprietary",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-5dbe647964627f1b4c087878/0.3.91/package.tar.gz",
+  "packageBytes": 4169,
+  "packageSha256": "ae99ce5bd12ab38a07744fd130addfcdff211c7ff944bcde017d2c9d995c1f54",
+  "entrypoint": "양식/학술/연세대 학위논문.md",
+  "files": [
+    {
+      "path": "양식/학술/연세대 학위논문.md",
+      "bytes": 9284,
+      "sha256": "1386f63b5ed26e953293f22726d3618d944e119dfbdcc6e464ed3d70b0beeede"
+    }
+  ]
+}

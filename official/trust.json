@@ -1,0 +1,9 @@
+{
+  "schema": "haepari.antarctic.trust",
+  "version": 1,
+  "keyId": "haepari-antarctic-7279d5a046f5d877",
+  "algorithm": "Ed25519",
+  "publicKeyBase64": "QsQdWDo4bFxo86KsugZZ6lYWa5WmlH6BRkP4G4Vyno8=",
+  "indexUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/index.json",
+  "indexSignatureUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/index.signature.json"
+}

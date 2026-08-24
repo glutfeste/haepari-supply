@@ -1,0 +1,23 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-58ca5465aac654e57b4310a6",
+  "title": "형사 고소장",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%EB%B2%95%EB%A5%A0/%ED%98%95%EC%82%AC%20%EA%B3%A0%EC%86%8C%EC%9E%A5.md",
+  "license": "LicenseRef-Haepari-Proprietary",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-58ca5465aac654e57b4310a6/0.3.91/package.tar.gz",
+  "packageBytes": 2144,
+  "packageSha256": "2c80d11cb8420e7ef49f67d2a9075d12b247de15c10d7a32fbda45c5a1f8588b",
+  "entrypoint": "양식/법률/형사 고소장.md",
+  "files": [
+    {
+      "path": "양식/법률/형사 고소장.md",
+      "bytes": 4189,
+      "sha256": "615978747ccfd864f6789dd59c2bbe41f5b4d324165958e0af4c2e6b40564d85"
+    }
+  ]
+}

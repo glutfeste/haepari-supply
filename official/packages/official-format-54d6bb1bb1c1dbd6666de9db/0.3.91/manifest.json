@@ -1,0 +1,43 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-54d6bb1bb1c1dbd6666de9db",
+  "title": "밀라노공대 학위논문",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EC%88%A0/%ED%95%B4%EC%99%B8/%EB%B0%80%EB%9D%BC%EB%85%B8%EA%B3%B5%EB%8C%80%20%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8.md",
+  "license": "LicenseRef-Haepari-Proprietary AND (GPL-3.0-only)",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-54d6bb1bb1c1dbd6666de9db/0.3.91/package.tar.gz",
+  "packageBytes": 15588,
+  "packageSha256": "d31d997354f5dc0cb25513369eb87fc733d597dcc0b838d1656436c7f001bd00",
+  "entrypoint": "양식/학술/해외/밀라노공대 학위논문.md",
+  "files": [
+    {
+      "path": "양식/학술/해외/밀라노공대 학위논문 자료/LICENSE",
+      "bytes": 35823,
+      "sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+    },
+    {
+      "path": "양식/학술/해외/밀라노공대 학위논문 자료/main.typ",
+      "bytes": 1094,
+      "sha256": "769e32e7acc47836cc44acf6a679442ab54b789d3c564f303ca4914aa6ebf383"
+    },
+    {
+      "path": "양식/학술/해외/밀라노공대 학위논문 자료/presentation.typ",
+      "bytes": 740,
+      "sha256": "068eb608e00652f1c2939968eaba76fe6b60ea485ab49f66d6eda5c86713336d"
+    },
+    {
+      "path": "양식/학술/해외/밀라노공대 학위논문 자료/시작 문서.md",
+      "bytes": 3098,
+      "sha256": "44fc49da98e6bb39299ace77d87852b58d1d92b0decb27c32750be3e17ac76a6"
+    },
+    {
+      "path": "양식/학술/해외/밀라노공대 학위논문.md",
+      "bytes": 1920,
+      "sha256": "611c5e46e0a306120fbdd62ef1a2b2b6a833b04ce5ecc9d1ef3b2bd51c65f2d5"
+    }
+  ]
+}

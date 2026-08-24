@@ -1,0 +1,6 @@
+{
+  "schema": "haepari.antarctic.detached-signature",
+  "algorithm": "Ed25519",
+  "keyId": "haepari-antarctic-7279d5a046f5d877",
+  "signature": "XrR0rQZlMAxXyXbYTmHXP+6ua4dHhyYrXEBSHXSG48DPpNARNLfd8/ups35RHZSY0lTsXTvJAX88NjKzThAPAQ=="
+}

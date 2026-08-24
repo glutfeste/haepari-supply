@@ -1,0 +1,23 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-frame-c0a1308101b82c82ea8ae75d",
+  "title": "서명 승인",
+  "kind": "frame",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%ED%8B%80/%EC%84%9C%EB%AA%85%20%EC%8A%B9%EC%9D%B8.md",
+  "license": "LicenseRef-Haepari-Proprietary",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-frame-c0a1308101b82c82ea8ae75d/0.3.91/package.tar.gz",
+  "packageBytes": 1159,
+  "packageSha256": "86c594d7f3a46e646545eac7a9b4d6aa4467c714f91bd6164f654b4376843b82",
+  "entrypoint": "틀/서명 승인.md",
+  "files": [
+    {
+      "path": "틀/서명 승인.md",
+      "bytes": 4982,
+      "sha256": "d5a6776bc2670e6c3c0dbd8d57a4588c689440af8d07d33fa380b4ec2d93e4f5"
+    }
+  ]
+}

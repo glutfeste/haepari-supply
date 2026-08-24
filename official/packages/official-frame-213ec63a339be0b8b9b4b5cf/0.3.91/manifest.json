@@ -1,0 +1,23 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-frame-213ec63a339be0b8b9b4b5cf",
+  "title": "작품 한눈에",
+  "kind": "frame",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%ED%8B%80/%EC%9E%91%ED%92%88%20%ED%95%9C%EB%88%88%EC%97%90.md",
+  "license": "LicenseRef-Haepari-Proprietary",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-frame-213ec63a339be0b8b9b4b5cf/0.3.91/package.tar.gz",
+  "packageBytes": 1486,
+  "packageSha256": "de110bb419131379b8609c852fdce9de37a6f65167d723fab197e625871265d0",
+  "entrypoint": "틀/작품 한눈에.md",
+  "files": [
+    {
+      "path": "틀/작품 한눈에.md",
+      "bytes": 9122,
+      "sha256": "e55085fd9b2b38e3f79ed41430417cf6bb0c4d2c953373efc513e0a24cd35e3e"
+    }
+  ]
+}

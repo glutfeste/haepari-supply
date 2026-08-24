@@ -1,0 +1,23 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-frame-569e7901f7959394fb49793a",
+  "title": "신청서·조사표",
+  "kind": "frame",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%ED%8B%80/%EC%8B%A0%EC%B2%AD%EC%84%9C%C2%B7%EC%A1%B0%EC%82%AC%ED%91%9C.md",
+  "license": "LicenseRef-Haepari-Proprietary",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-frame-569e7901f7959394fb49793a/0.3.91/package.tar.gz",
+  "packageBytes": 1603,
+  "packageSha256": "fe8d0a08f70ce1798b203dd94d00ab05876f1a90d3b78ac6109d5e29231e0de0",
+  "entrypoint": "틀/신청서·조사표.md",
+  "files": [
+    {
+      "path": "틀/신청서·조사표.md",
+      "bytes": 5231,
+      "sha256": "997cd73cd3a31408b15d6f88b336878c2ef3f544df68788bcbce0c389e38cf2e"
+    }
+  ]
+}

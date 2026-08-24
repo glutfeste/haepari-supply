@@ -1,0 +1,38 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-c183943a143a9d384d02b07e",
+  "title": "소설",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%EC%B6%9C%ED%8C%90/%EC%86%8C%EC%84%A4.md",
+  "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-c183943a143a9d384d02b07e/0.3.91/package.tar.gz",
+  "packageBytes": 4035,
+  "packageSha256": "45744b44dbc906e829ccc60816a9c600633c58657fe2b3fc41798673bd273039",
+  "entrypoint": "양식/출판/소설.md",
+  "files": [
+    {
+      "path": "양식/출판/소설 자료/LICENSE",
+      "bytes": 1091,
+      "sha256": "9cc9d658163c51e08ea25e60cb7b88f1ff85d17f9f4f9a7c2807148326e61b56"
+    },
+    {
+      "path": "양식/출판/소설 자료/main.typ",
+      "bytes": 803,
+      "sha256": "1fcb80f4e8bda97583f3d64a9d7b1e13a5c471fac56b8738e850291a42db55d0"
+    },
+    {
+      "path": "양식/출판/소설 자료/시작 문서.md",
+      "bytes": 6570,
+      "sha256": "6eeb5eacae99d227472c65e64a545704e5a84e37313b2ab72fab4a6a8bd8d04a"
+    },
+    {
+      "path": "양식/출판/소설.md",
+      "bytes": 1819,
+      "sha256": "4c213bd30d862728758aab2a2b261d018fa9a99e288a7a38b98f1ef77a6d7c82"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-0ac2298ba91c418b5d584ae8",
+  "title": "ETH 취리히 학위논문",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EC%88%A0/%ED%95%B4%EC%99%B8/ETH%20%EC%B7%A8%EB%A6%AC%ED%9E%88%20%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8.md",
+  "license": "LicenseRef-Haepari-Proprietary AND (Apache-2.0)",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-0ac2298ba91c418b5d584ae8/0.3.91/package.tar.gz",
+  "packageBytes": 15460,
+  "packageSha256": "7523cba013dd1b0d9bed05ac36cb5d588e58c700bbc9dbdfde61852145ed21af",
+  "entrypoint": "양식/학술/해외/ETH 취리히 학위논문.md",
+  "files": [
+    {
+      "path": "양식/학술/해외/ETH 취리히 학위논문 자료/LICENSE",
+      "bytes": 11560,
+      "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+    },
+    {
+      "path": "양식/학술/해외/ETH 취리히 학위논문 자료/acronyms.typ",
+      "bytes": 1809,
+      "sha256": "4430d4ccd48934d20d6404e36ff71cbe52cd3f0c1f82eecd3bf7ea66d1b2158a"
+    },
+    {
+      "path": "양식/학술/해외/ETH 취리히 학위논문 자료/appendices/appendix.typ",
+      "bytes": 1540,
+      "sha256": "575a60e099f8d1adad88ab9d6475d447f406d6807f7f51e9c0116e0bb905aca4"
+    },
+    {
+      "path": "양식/학술/해외/ETH 취리히 학위논문 자료/appendices/chip_gallery.typ",
+      "bytes": 3348,
+      "sha256": "5ca35a7abcae10b7da988fe61f5c6761e496b1a3d53e0df847ddb24f30c73c5b"
+    },
+    {
+      "path": "양식/학술/해외/ETH 취리히 학위논문 자료/chapters/abstract_de.typ",
+      "bytes": 184,
+      "sha256": "2e2e2358ef8ba9fc959831812267be8d00454839c9be42445880d27422509266"
+    },
+    {
+      "path": "양식/학술/해외/ETH 취리히 학위논문 자료/chapters/abstract_en.typ",
+      "bytes": 177,
+      "sha256": "2b31ad7d393ce0c57864e8d29e8febc4304a015d76fcaf5e5dced76c31b78bcb"
+    },
+    {
+      "path": "양식/학술/해외/ETH 취리히 학위논문 자료/chapters/acknowledgements.typ",
+      "bytes": 292,
+      "sha256": "8a31544b1c3a5afcbff8d3af5872571d9d22e19bd2c00ff5122f3dbeb3b397a2"
+    },
+    {
+      "path": "양식/학술/해외/ETH 취리히 학위논문 자료/chapters/background.typ",
+      "bytes": 3846,
+      "sha256": "ba6a3f27672c766f76e640780953276c84a9892dc56bb42b140f4f5a9f197a0f"
+    },
+    {
+      "path": "양식/학술/해외/ETH 취리히 학위논문 자료/chapters/conclusion.typ",
+      "bytes": 2766,
+      "sha256": "b440062bd6237578182757a4f4a5c1a271abb93c0b92cc92d58ae5337df7d92f"
+    },
+    {
+      "path": "양식/학술/해외/ETH 취리히 학위논문 자료/chapters/introduction.typ",
+      "bytes": 3415,
+      "sha256": "be1b38d63d7d1405e5107e951df7aae6326028ea408b13ca91c58ec51a8bb8d6"
+    },
+    {
+      "path": "양식/학술/해외/ETH 취리히 학위논문 자료/cv.typ",
+      "bytes": 3461,
+      "sha256": "c7425b63b8b241eb669809106e4949264942bbd56645e0d417fd270b1fb41fb1"
+    },
+    {
+      "path": "양식/학술/해외/ETH 취리히 학위논문 자료/main.typ",
+      "bytes": 1691,
+      "sha256": "94ac41075918dd6be26d869d29b1d27e7008a96b1e1e64d9f2a623a02ad1bda0"
+    },
+    {
+      "path": "양식/학술/해외/ETH 취리히 학위논문 자료/references.bib",
+      "bytes": 1422,
+      "sha256": "2c1a0fc8c1423acd6ca6c0ec99f46bc0a089a03101131f2c27f85614457eece1"
+    },
+    {
+      "path": "양식/학술/해외/ETH 취리히 학위논문 자료/시작 문서.md",
+      "bytes": 4748,
+      "sha256": "22a5c3a8886ecb12cc5775dd362863453184b372edafe12efb42c0716bdf0a16"
+    },
+    {
+      "path": "양식/학술/해외/ETH 취리히 학위논문.md",
+      "bytes": 1814,
+      "sha256": "7457a6922d58a09182c96558a425df04e4561abbe757d9f0cfe984267dbc68be"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-frame-4f4124c506d91ecd5309f437",
+  "title": "일정·타임라인",
+  "kind": "frame",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%ED%8B%80/%EC%9D%BC%EC%A0%95%C2%B7%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8.md",
+  "license": "LicenseRef-Haepari-Proprietary",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-frame-4f4124c506d91ecd5309f437/0.3.91/package.tar.gz",
+  "packageBytes": 1720,
+  "packageSha256": "c597a7a94363ee1b8adcae41ed4dcb7c1c80713cac57afdf6679700d9d7c6971",
+  "entrypoint": "틀/일정·타임라인.md",
+  "files": [
+    {
+      "path": "틀/일정·타임라인.md",
+      "bytes": 7744,
+      "sha256": "c72cf3345eab80a847d1a104636a4aae882c9ef364963db94ad551fc793ba76a"
+    }
+  ]
+}

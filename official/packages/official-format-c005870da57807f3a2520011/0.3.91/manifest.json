@@ -1,0 +1,23 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-c005870da57807f3a2520011",
+  "title": "전남대 학위논문",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EC%88%A0/%EC%A0%84%EB%82%A8%EB%8C%80%20%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8.md",
+  "license": "LicenseRef-Haepari-Proprietary",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-c005870da57807f3a2520011/0.3.91/package.tar.gz",
+  "packageBytes": 3233,
+  "packageSha256": "c7fa07938cbbfb65a40e8b815f00cf21fbd199d5f47c4eca1bed0254a992abc5",
+  "entrypoint": "양식/학술/전남대 학위논문.md",
+  "files": [
+    {
+      "path": "양식/학술/전남대 학위논문.md",
+      "bytes": 7013,
+      "sha256": "10654ee99eeec0e6c32bf9eef48ff858b702295624f1a0968f4749b0fde2d172"
+    }
+  ]
+}

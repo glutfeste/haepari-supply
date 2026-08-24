@@ -1,0 +1,68 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-format-ca708187758d9994fb09ce69",
+  "title": "뮌헨공대 학위논문",
+  "kind": "format",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EC%88%A0/%ED%95%B4%EC%99%B8/%EB%AE%8C%ED%97%A8%EA%B3%B5%EB%8C%80%20%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8.md",
+  "license": "LicenseRef-Haepari-Proprietary AND (MIT-0)",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/packages/official-format-ca708187758d9994fb09ce69/0.3.91/package.tar.gz",
+  "packageBytes": 97111,
+  "packageSha256": "17b0616773a92ef5169ee8e36382a210d5d93a83e6327105518557f029199557",
+  "entrypoint": "양식/학술/해외/뮌헨공대 학위논문.md",
+  "files": [
+    {
+      "path": "양식/학술/해외/뮌헨공대 학위논문 자료/LICENSE",
+      "bytes": 890,
+      "sha256": "2dc917e7edfee15ea3c29947bb01a174e967634ec10a5053bb9ba0c98874237c"
+    },
+    {
+      "path": "양식/학술/해외/뮌헨공대 학위논문 자료/chapters/1_Introduction.typ",
+      "bytes": 5675,
+      "sha256": "66e529c72bbf3f2d0e2220d78482a0f6574c842cd5b0dc16ecf1265ad577deae"
+    },
+    {
+      "path": "양식/학술/해외/뮌헨공대 학위논문 자료/chapters/Appendix.typ",
+      "bytes": 167,
+      "sha256": "8dc4db21af869570812f68218aa1dd6887b4314ef6d473f05cfcf58755455d07"
+    },
+    {
+      "path": "양식/학술/해외/뮌헨공대 학위논문 자료/figures/dummy_image.jpg",
+      "bytes": 86254,
+      "sha256": "25c7139d49bf9d61a7e69ea75ac50a5a820063556bc8462e1fee84bb5a2fc405"
+    },
+    {
+      "path": "양식/학술/해외/뮌헨공대 학위논문 자료/glossary.typ",
+      "bytes": 1208,
+      "sha256": "6f4bcb35ebcda4c561ba239f481bf0569579847fdb90d58d7638b04b055202c4"
+    },
+    {
+      "path": "양식/학술/해외/뮌헨공대 학위논문 자료/items.bib",
+      "bytes": 845,
+      "sha256": "216debe90dfe000c9e3fe42b369b7b9cd896b8d1b73d368e49ecb59767833db6"
+    },
+    {
+      "path": "양식/학술/해외/뮌헨공대 학위논문 자료/main.typ",
+      "bytes": 5460,
+      "sha256": "bc15730999dce64d466da71700b97d1c64cf88da772d7439c543e62395db6cae"
+    },
+    {
+      "path": "양식/학술/해외/뮌헨공대 학위논문 자료/utils.typ",
+      "bytes": 397,
+      "sha256": "6229c6011cfd457e1d639fec451f5f6f07f197357f2631cb9a3facf0e9e037a2"
+    },
+    {
+      "path": "양식/학술/해외/뮌헨공대 학위논문 자료/시작 문서.md",
+      "bytes": 3971,
+      "sha256": "9fbef0076f138268346e77e1e54c41b127c780f6a2151982ca75e1b40271848b"
+    },
+    {
+      "path": "양식/학술/해외/뮌헨공대 학위논문.md",
+      "bytes": 7808,
+      "sha256": "11e99960321ad8c5ef7c8650ca56df353dffe3824059fdd1fb1e9ff362882565"
+    }
+  ]
+}
