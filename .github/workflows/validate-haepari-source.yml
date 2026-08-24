@@ -43,6 +43,7 @@ jobs:
         run: |
           rustc --version
           cargo fmt --manifest-path src-tauri/Cargo.toml --check
+          cargo clippy --manifest-path src-tauri/Cargo.toml --all-targets -- -D warnings
           cargo test --manifest-path src-tauri/Cargo.toml antarctic_supply -- --nocapture
           cargo test --manifest-path src-tauri/Cargo.toml production_공식_색인과_첫_꾸러미를_실제_받아_검증한다 -- --ignored --nocapture
       - name: Verify renderer and production supply contracts
