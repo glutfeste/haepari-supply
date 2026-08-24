@@ -4,16 +4,21 @@
   "title": "민사 소장",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.1/official/packages/official-format-3d597ced5d3eb3857df865f2/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-3d597ced5d3eb3857df865f2/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.1/official/packages/official-format-3d597ced5d3eb3857df865f2/0.3.91/package.tar.gz",
-  "packageBytes": 2481,
-  "packageSha256": "39450e82024d54097aef8029694bab2e4179437be2a23e4a8b588c2b5faaa972",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-3d597ced5d3eb3857df865f2/0.3.91/package.tar.gz",
+  "packageBytes": 4542,
+  "packageSha256": "60966165993da5d92819a5eee6998b1b2b1f62f5930ec73bbfe0b6a9743d80d9",
   "entrypoint": "양식/법률/민사 소장.md",
   "files": [
+    {
+      "path": "양식/법률/민사 소장 자료/시작 문서.md",
+      "bytes": 31165,
+      "sha256": "f911de68790f9b864a40f8e1efb95f054c0ff66242eb0751bdd24eb03e906383"
+    },
     {
       "path": "양식/법률/민사 소장.md",
       "bytes": 5048,

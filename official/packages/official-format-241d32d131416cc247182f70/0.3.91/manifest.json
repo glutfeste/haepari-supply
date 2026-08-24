@@ -4,16 +4,21 @@
   "title": "경희대 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.1/official/packages/official-format-241d32d131416cc247182f70/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-241d32d131416cc247182f70/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.1/official/packages/official-format-241d32d131416cc247182f70/0.3.91/package.tar.gz",
-  "packageBytes": 4219,
-  "packageSha256": "9a52e7adc610b5650c17259a2ccf66208e87968092066893fb968046239e7c42",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-241d32d131416cc247182f70/0.3.91/package.tar.gz",
+  "packageBytes": 7165,
+  "packageSha256": "014e176f7b144fe67caae5948c6aa642520f78869724c0e85456658c91055aec",
   "entrypoint": "양식/학술/경희대 학위논문.md",
   "files": [
+    {
+      "path": "양식/학술/경희대 학위논문 자료/시작 문서.md",
+      "bytes": 12305,
+      "sha256": "5207f35e02c2322fbb835e837cfd9dde9e3d256a2f45b90ff33a29121a962e1b"
+    },
     {
       "path": "양식/학술/경희대 학위논문.md",
       "bytes": 9465,

@@ -4,16 +4,21 @@
   "title": "보도자료",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.1/official/packages/official-format-d73b7d525c728bad2f79a90b/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-d73b7d525c728bad2f79a90b/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.1/official/packages/official-format-d73b7d525c728bad2f79a90b/0.3.91/package.tar.gz",
-  "packageBytes": 2936,
-  "packageSha256": "6901c7011473dace89635ba134a9e9fce939aba09333d728bb0265cac1452147",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-d73b7d525c728bad2f79a90b/0.3.91/package.tar.gz",
+  "packageBytes": 4913,
+  "packageSha256": "d756b9cdc95d129f75c0973d53bcb869a8606fd59fe409d611067941646096a8",
   "entrypoint": "양식/공공/보도자료.md",
   "files": [
+    {
+      "path": "양식/공공/보도자료 자료/시작 문서.md",
+      "bytes": 10558,
+      "sha256": "58d8d6c7b2ebc3e3d3dd2370cd725125df400d67d7811245ec0b6fa6e3129b6f"
+    },
     {
       "path": "양식/공공/보도자료.md",
       "bytes": 6356,

@@ -4,16 +4,21 @@
   "title": "성균관대 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.1/official/packages/official-format-bbf6f1f62e402614b06f57ad/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-bbf6f1f62e402614b06f57ad/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.1/official/packages/official-format-bbf6f1f62e402614b06f57ad/0.3.91/package.tar.gz",
-  "packageBytes": 3414,
-  "packageSha256": "ec40c4e3d4f0265216b13d862bfcdc2c655b600b2af0914059fa612179eb0d4a",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-bbf6f1f62e402614b06f57ad/0.3.91/package.tar.gz",
+  "packageBytes": 6515,
+  "packageSha256": "82311d60b3e670caa3fd0d61c68cf72b181f355c18f0ee18add33cec9c7ee171",
   "entrypoint": "양식/학술/성균관대 학위논문.md",
   "files": [
+    {
+      "path": "양식/학술/성균관대 학위논문 자료/시작 문서.md",
+      "bytes": 11548,
+      "sha256": "b79c073ee449319cba26c84589f361cb5e7fab239c30581e581ecfeecfbce3b1"
+    },
     {
       "path": "양식/학술/성균관대 학위논문.md",
       "bytes": 7203,

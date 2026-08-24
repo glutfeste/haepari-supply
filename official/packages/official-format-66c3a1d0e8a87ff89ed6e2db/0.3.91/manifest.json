@@ -4,16 +4,21 @@
   "title": "서울대 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.1/official/packages/official-format-66c3a1d0e8a87ff89ed6e2db/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-66c3a1d0e8a87ff89ed6e2db/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.1/official/packages/official-format-66c3a1d0e8a87ff89ed6e2db/0.3.91/package.tar.gz",
-  "packageBytes": 1475,
-  "packageSha256": "2f832e29d0d691c30bd89999709f3648017b3a4615e4aff371fd820635c0124a",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-66c3a1d0e8a87ff89ed6e2db/0.3.91/package.tar.gz",
+  "packageBytes": 3127,
+  "packageSha256": "f6d307106d68910606552dc185c5af0ee8e143a109cae830ad33f49e6071b647",
   "entrypoint": "양식/학술/서울대 학위논문.md",
   "files": [
+    {
+      "path": "양식/학술/서울대 학위논문 자료/시작 문서.md",
+      "bytes": 6038,
+      "sha256": "e888e7d99f4398bb21993bfbc670434f76b0f8a4e7d4783f9faefcbda8050db9"
+    },
     {
       "path": "양식/학술/서울대 학위논문.md",
       "bytes": 2465,

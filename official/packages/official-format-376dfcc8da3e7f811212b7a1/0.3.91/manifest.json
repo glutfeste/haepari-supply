@@ -4,16 +4,21 @@
   "title": "사업계획서",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.1/official/packages/official-format-376dfcc8da3e7f811212b7a1/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-376dfcc8da3e7f811212b7a1/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.1/official/packages/official-format-376dfcc8da3e7f811212b7a1/0.3.91/package.tar.gz",
-  "packageBytes": 2452,
-  "packageSha256": "27454802191a868176bb463b9ca80fbff0d8c6d86d9449833712441a4fc45bd5",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-376dfcc8da3e7f811212b7a1/0.3.91/package.tar.gz",
+  "packageBytes": 5254,
+  "packageSha256": "af999aafb93cb0055d6ef601e640a0b1a1f1b162d541aa85c6428be1becaa707",
   "entrypoint": "양식/업무/사업계획서.md",
   "files": [
+    {
+      "path": "양식/업무/사업계획서 자료/시작 문서.md",
+      "bytes": 11422,
+      "sha256": "62e5bcd615e235ae2977b3f5966aab236b56d86d6f59035411512baad2f2272c"
+    },
     {
       "path": "양식/업무/사업계획서.md",
       "bytes": 4793,

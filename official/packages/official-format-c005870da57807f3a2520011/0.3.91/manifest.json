@@ -4,16 +4,21 @@
   "title": "전남대 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.1/official/packages/official-format-c005870da57807f3a2520011/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-c005870da57807f3a2520011/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.1/official/packages/official-format-c005870da57807f3a2520011/0.3.91/package.tar.gz",
-  "packageBytes": 3233,
-  "packageSha256": "c7fa07938cbbfb65a40e8b815f00cf21fbd199d5f47c4eca1bed0254a992abc5",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-c005870da57807f3a2520011/0.3.91/package.tar.gz",
+  "packageBytes": 6090,
+  "packageSha256": "23d2d81c4fc6ae2c39ceff1b289ac737259071c77f227dbf38e14bcddf365115",
   "entrypoint": "양식/학술/전남대 학위논문.md",
   "files": [
+    {
+      "path": "양식/학술/전남대 학위논문 자료/시작 문서.md",
+      "bytes": 11429,
+      "sha256": "adb115cfef171582e0430ea93824e62030e730ef9b291156697e673ed72f51af"
+    },
     {
       "path": "양식/학술/전남대 학위논문.md",
       "bytes": 7013,

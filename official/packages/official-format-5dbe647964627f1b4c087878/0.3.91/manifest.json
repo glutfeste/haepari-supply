@@ -4,16 +4,21 @@
   "title": "연세대 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.1/official/packages/official-format-5dbe647964627f1b4c087878/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-5dbe647964627f1b4c087878/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.1/official/packages/official-format-5dbe647964627f1b4c087878/0.3.91/package.tar.gz",
-  "packageBytes": 4169,
-  "packageSha256": "ae99ce5bd12ab38a07744fd130addfcdff211c7ff944bcde017d2c9d995c1f54",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-5dbe647964627f1b4c087878/0.3.91/package.tar.gz",
+  "packageBytes": 6960,
+  "packageSha256": "d0f42abe06525fb1f8ea67dde6c49ab7062c6a951f2145b22c82b423e64ef416",
   "entrypoint": "양식/학술/연세대 학위논문.md",
   "files": [
+    {
+      "path": "양식/학술/연세대 학위논문 자료/시작 문서.md",
+      "bytes": 11999,
+      "sha256": "3748f4293e1183c3fe57bb166987be512a483ee1b81f36cb6a74cc4cc587f8ab"
+    },
     {
       "path": "양식/학술/연세대 학위논문.md",
       "bytes": 9284,
