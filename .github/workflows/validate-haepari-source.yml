@@ -1,0 +1,48 @@
+name: Validate Haepari source branch
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_ref:
+        description: Private haepari branch or tag to validate
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  antarctic-supply:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone private Haepari source with read-only deploy key
+        env:
+          SOURCE_KEY: ${{ secrets.HAEPPARI_SOURCE_READ_KEY }}
+          SOURCE_REF: ${{ inputs.source_ref }}
+        run: |
+          set -euo pipefail
+          key_file="$RUNNER_TEMP/haepari-source-read"
+          printf '%s' "$SOURCE_KEY" > "$key_file"
+          chmod 600 "$key_file"
+          mkdir -p "$HOME/.ssh"
+          ssh-keyscan github.com >> "$HOME/.ssh/known_hosts"
+          export GIT_SSH_COMMAND="ssh -i $key_file -o IdentitiesOnly=yes"
+          git clone --depth 1 --single-branch --branch "$SOURCE_REF" git@github.com:glutfeste/haepari.git "$RUNNER_TEMP/haepari"
+          rm -f "$key_file"
+      - name: Install Tauri Linux build libraries
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libwebkit2gtk-4.1-dev libappindicator3-dev librsvg2-dev patchelf
+      - name: Verify Rust formatting and Antarctic boundaries
+        working-directory: ${{ runner.temp }}/haepari
+        run: |
+          rustc --version
+          cargo fmt --manifest-path src-tauri/Cargo.toml --check
+          cargo test --manifest-path src-tauri/Cargo.toml antarctic_supply -- --nocapture
+          cargo test --manifest-path src-tauri/Cargo.toml production_공식_색인과_첫_꾸러미를_실제_받아_검증한다 -- --ignored --nocapture
+      - name: Verify renderer and production supply contracts
+        working-directory: ${{ runner.temp }}/haepari
+        run: |
+          npm ci --ignore-scripts
+          npm exec -- vitest run src/renderer/src/components/OfficialSupplyPanel.test.tsx src/renderer/src/lib/러스트명령.test.ts
+          node --test scripts/antarctic-supply-build.test.mjs scripts/antarctic-supply-production.test.mjs
