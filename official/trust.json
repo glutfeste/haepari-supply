@@ -4,6 +4,6 @@
   "keyId": "haepari-antarctic-4171eaf4b451b477",
   "algorithm": "Ed25519",
   "publicKeyBase64": "FWneQz8e5uZvCYSmJXUF5hBcrrWp2aUjF71palmBhVY=",
-  "indexUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/index.json",
-  "indexSignatureUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/main/official/index.signature.json"
+  "indexUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.1/official/index.json",
+  "indexSignatureUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.1/official/index.signature.json"
 }
