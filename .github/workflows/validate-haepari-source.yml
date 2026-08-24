@@ -33,6 +33,11 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y libwebkit2gtk-4.1-dev libappindicator3-dev librsvg2-dev patchelf
+      - name: Build renderer required by Tauri context
+        working-directory: ${{ runner.temp }}/haepari
+        run: |
+          npm ci --ignore-scripts
+          npm run build
       - name: Verify Rust formatting and Antarctic boundaries
         working-directory: ${{ runner.temp }}/haepari
         run: |
@@ -43,6 +48,5 @@ jobs:
       - name: Verify renderer and production supply contracts
         working-directory: ${{ runner.temp }}/haepari
         run: |
-          npm ci --ignore-scripts
           npm exec -- vitest run src/renderer/src/components/OfficialSupplyPanel.test.tsx src/renderer/src/lib/러스트명령.test.ts
           node --test scripts/antarctic-supply-build.test.mjs scripts/antarctic-supply-production.test.mjs
