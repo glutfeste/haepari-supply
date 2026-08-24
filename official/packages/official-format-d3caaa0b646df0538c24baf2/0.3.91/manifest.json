@@ -4,7 +4,7 @@
   "title": "요리책",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%EC%83%9D%ED%99%9C/%EC%9A%94%EB%A6%AC%EC%B1%85.md",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/main/official/packages/official-format-d3caaa0b646df0538c24baf2/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,

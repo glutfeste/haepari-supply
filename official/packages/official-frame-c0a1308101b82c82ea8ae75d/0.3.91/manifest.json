@@ -4,7 +4,7 @@
   "title": "서명 승인",
   "kind": "frame",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%ED%8B%80/%EC%84%9C%EB%AA%85%20%EC%8A%B9%EC%9D%B8.md",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/main/official/packages/official-frame-c0a1308101b82c82ea8ae75d/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,

@@ -4,7 +4,7 @@
   "title": "정보상자",
   "kind": "frame",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%ED%8B%80/%EC%A0%95%EB%B3%B4%EC%83%81%EC%9E%90.md",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/main/official/packages/official-frame-ca360ab01b2b633463749a1a/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,

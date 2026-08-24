@@ -4,7 +4,7 @@
   "title": "이력서",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%EA%B0%9C%EC%9D%B8/%EC%9D%B4%EB%A0%A5%EC%84%9C.md",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/main/official/packages/official-format-0b613632097a0b2c4f50f55e/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,

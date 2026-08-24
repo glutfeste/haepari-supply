@@ -4,7 +4,7 @@
   "title": "책",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%EC%B6%9C%ED%8C%90/%EC%B1%85.md",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/main/official/packages/official-format-9db50a9c34dd3244909db938/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,

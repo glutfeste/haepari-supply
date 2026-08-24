@@ -4,7 +4,7 @@
   "title": "서명란",
   "kind": "frame",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%ED%8B%80/%EC%84%9C%EB%AA%85%EB%9E%80.md",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/main/official/packages/official-frame-0024301b0d88e99948ac6cba/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,

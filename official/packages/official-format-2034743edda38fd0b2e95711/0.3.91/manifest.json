@@ -4,7 +4,7 @@
   "title": "학회 논문 (IEEE)",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EC%88%A0/%ED%95%99%ED%9A%8C%20%EB%85%BC%EB%AC%B8%20(IEEE).md",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/main/official/packages/official-format-2034743edda38fd0b2e95711/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,

@@ -4,7 +4,7 @@
   "title": "작품 한눈에",
   "kind": "frame",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%ED%8B%80/%EC%9E%91%ED%92%88%20%ED%95%9C%EB%88%88%EC%97%90.md",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/main/official/packages/official-frame-213ec63a339be0b8b9b4b5cf/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,

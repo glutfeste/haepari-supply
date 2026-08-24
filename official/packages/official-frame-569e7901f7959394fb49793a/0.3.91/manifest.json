@@ -4,7 +4,7 @@
   "title": "신청서·조사표",
   "kind": "frame",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%ED%8B%80/%EC%8B%A0%EC%B2%AD%EC%84%9C%C2%B7%EC%A1%B0%EC%82%AC%ED%91%9C.md",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/main/official/packages/official-frame-569e7901f7959394fb49793a/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,

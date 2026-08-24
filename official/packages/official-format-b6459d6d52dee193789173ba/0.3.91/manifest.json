@@ -4,7 +4,7 @@
   "title": "브리티시컬럼비아대 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EC%88%A0/%ED%95%B4%EC%99%B8/%EB%B8%8C%EB%A6%AC%ED%8B%B0%EC%8B%9C%EC%BB%AC%EB%9F%BC%EB%B9%84%EC%95%84%EB%8C%80%20%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8.md",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/main/official/packages/official-format-b6459d6d52dee193789173ba/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,

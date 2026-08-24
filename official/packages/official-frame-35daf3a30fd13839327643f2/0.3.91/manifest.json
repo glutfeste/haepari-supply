@@ -4,7 +4,7 @@
   "title": "도장칸",
   "kind": "frame",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%ED%8B%80/%EB%8F%84%EC%9E%A5%EC%B9%B8.md",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/main/official/packages/official-frame-35daf3a30fd13839327643f2/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,

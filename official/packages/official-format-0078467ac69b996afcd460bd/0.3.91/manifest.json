@@ -4,7 +4,7 @@
   "title": "편지",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%EC%84%9C%EC%8B%A0/%ED%8E%B8%EC%A7%80.md",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/main/official/packages/official-format-0078467ac69b996afcd460bd/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (Unlicense)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,

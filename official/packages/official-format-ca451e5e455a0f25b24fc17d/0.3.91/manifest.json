@@ -4,7 +4,7 @@
   "title": "코드 악보",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%EC%83%9D%ED%99%9C/%EC%BD%94%EB%93%9C%20%EC%95%85%EB%B3%B4.md",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/main/official/packages/official-format-ca451e5e455a0f25b24fc17d/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,

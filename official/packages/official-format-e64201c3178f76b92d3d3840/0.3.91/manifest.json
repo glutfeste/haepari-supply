@@ -4,7 +4,7 @@
   "title": "법학 답안지",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%ED%95%99%EA%B5%90/%EB%B2%95%ED%95%99%20%EB%8B%B5%EC%95%88%EC%A7%80.md",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/main/official/packages/official-format-e64201c3178f76b92d3d3840/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,

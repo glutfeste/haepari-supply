@@ -4,7 +4,7 @@
   "title": "민사 소장",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%EB%B2%95%EB%A5%A0/%EB%AF%BC%EC%82%AC%20%EC%86%8C%EC%9E%A5.md",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/main/official/packages/official-format-3d597ced5d3eb3857df865f2/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,

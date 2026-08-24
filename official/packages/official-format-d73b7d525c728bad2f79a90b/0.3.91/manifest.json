@@ -4,7 +4,7 @@
   "title": "보도자료",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari/blob/2bedbc0cd50d2254cd059b4b7ef24cf478fb2dbe/sample-ocean/%EC%96%91%EC%8B%9D/%EA%B3%B5%EA%B3%B5/%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C.md",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/main/official/packages/official-format-d73b7d525c728bad2f79a90b/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
