@@ -50,3 +50,4 @@ jobs:
         run: |
           npm exec -- vitest run src/renderer/src/components/OfficialSupplyPanel.test.tsx src/renderer/src/lib/러스트명령.test.ts
           node --test scripts/antarctic-supply-build.test.mjs scripts/antarctic-supply-production.test.mjs
+          HAEPPARI_PRODUCTION_SUPPLY_TEST=1 npm exec -- vitest run src/renderer/src/lib/typeset/antarctic-supply-end-to-end.test.ts
