@@ -4,30 +4,30 @@
   "title": "책",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-9db50a9c34dd3244909db938/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-9db50a9c34dd3244909db938/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-9db50a9c34dd3244909db938/0.3.91/package.tar.gz",
-  "packageBytes": 20254,
-  "packageSha256": "462279e20ad4ee1d8a128812e27d0193975d5e5d0f82a03331b73d5cd6f0fec2",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-9db50a9c34dd3244909db938/0.3.91/package.tar.gz",
+  "packageBytes": 20062,
+  "packageSha256": "2124a0b1f1c935685c808cf5ecfda74fa972272d1ee70714f056fdfaf22e8507",
   "entrypoint": "양식/출판/책.md",
   "files": [
     {
       "path": "양식/출판/책 자료/LICENSE",
-      "bytes": 1090,
-      "sha256": "cb6d458bb184932778af493576403499321ba4bb6d8b71866f8cbc03fba8b0fe"
+      "bytes": 1070,
+      "sha256": "b1069c989776897dc5111733724dd7ca3c2805e4fdfdcd15141d6af616e291e0"
     },
     {
       "path": "양식/출판/책 자료/assets/catalog.yaml",
-      "bytes": 466,
-      "sha256": "8bf1605f4f2c7b87ae159f1f808f6c1dab06c3952d907b334a548a816f3abbc9"
+      "bytes": 442,
+      "sha256": "419e0d42a26a8c776b34d815168e5f79fab1036a414a067e6b4b6d0093e595ba"
     },
     {
       "path": "양식/출판/책 자료/main.typ",
-      "bytes": 36504,
-      "sha256": "fbe6b2d3a82af54e95584e688a2210744eceb8655cd67725b0dec847211bc3ab"
+      "bytes": 35836,
+      "sha256": "901d7e0131fb794a4555aeec1c53fdc60d87802a533920e86ba6b05c693bf51d"
     },
     {
       "path": "양식/출판/책 자료/시작 문서.md",

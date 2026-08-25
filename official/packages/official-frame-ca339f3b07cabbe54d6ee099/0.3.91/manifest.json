@@ -4,14 +4,14 @@
   "title": "두 칸 비교",
   "kind": "frame",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-frame-ca339f3b07cabbe54d6ee099/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-frame-ca339f3b07cabbe54d6ee099/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-frame-ca339f3b07cabbe54d6ee099/0.3.91/package.tar.gz",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-frame-ca339f3b07cabbe54d6ee099/0.3.91/package.tar.gz",
   "packageBytes": 1029,
-  "packageSha256": "788c52670735fdee56f2e8d36bab485c5b6a55e230b8da06f6c1575227ccaec1",
+  "packageSha256": "b027285c592973cd725e38684e7a00f942888f844e5d5e2c3e39e85a9e4e76f6",
   "entrypoint": "틀/두 칸 비교.md",
   "files": [
     {

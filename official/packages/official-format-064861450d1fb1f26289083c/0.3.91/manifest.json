@@ -4,20 +4,20 @@
   "title": "옥스퍼드 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-064861450d1fb1f26289083c/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-064861450d1fb1f26289083c/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-064861450d1fb1f26289083c/0.3.91/package.tar.gz",
-  "packageBytes": 114284,
-  "packageSha256": "3c079774eac9c38b7a76c46b2fabef74b0d74033df8495e8fae889a37b3e2478",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-064861450d1fb1f26289083c/0.3.91/package.tar.gz",
+  "packageBytes": 114269,
+  "packageSha256": "62ebbd55a8ccb87bb6af7f723f187f688eb33b2b7dc009cc2d3ac8ca949a9052",
   "entrypoint": "양식/학술/해외/옥스퍼드 학위논문.md",
   "files": [
     {
       "path": "양식/학술/해외/옥스퍼드 학위논문 자료/LICENSE",
-      "bytes": 1070,
-      "sha256": "ea76eebe8bd7eae763d47af9cc11ad7e99b2d49957cf6b4590068933bd43ed42"
+      "bytes": 1064,
+      "sha256": "730b4be4276205e8f8ea83ec31e6afe1c73fe7a40b51370f5f89760b4ef3ae07"
     },
     {
       "path": "양식/학술/해외/옥스퍼드 학위논문 자료/assets/beltcrest.png",
@@ -26,28 +26,28 @@
     },
     {
       "path": "양식/학술/해외/옥스퍼드 학위논문 자료/content/abstract.typ",
-      "bytes": 12,
-      "sha256": "f12ad64f846165e53d144fdca1f2f91eae1034942f86d023f6b55c08132fc620"
+      "bytes": 11,
+      "sha256": "19e1dfb7cc5896d387cceff354cc53fd50033380a797c3cfca62628886f9a3a9"
     },
     {
       "path": "양식/학술/해외/옥스퍼드 학위논문 자료/content/acknowledgements.typ",
-      "bytes": 41,
-      "sha256": "351bc7af0a567896d8f9097719fe4196d1e1510856fac8806dbdc4cda036e6d6"
+      "bytes": 39,
+      "sha256": "d68af7586cef8e00aac39c2a9e1eb3f732dfa6218c5b23107b6489a90c288d06"
     },
     {
       "path": "양식/학술/해외/옥스퍼드 학위논문 자료/content/bibliography.bib",
-      "bytes": 240,
-      "sha256": "c090d6434d2c83bc58012b5531233a19898afd7aa9cb942b97ff19fe4e60fcbf"
+      "bytes": 227,
+      "sha256": "ae565df68e1e56ac9ca63c110e8f13e8aebac16be59cb5ea1f69a182180dcde9"
     },
     {
       "path": "양식/학술/해외/옥스퍼드 학위논문 자료/content/section01.typ",
-      "bytes": 209,
-      "sha256": "40780d827cf3022a0ea2d001176c911cf1a90b755361958ab0ef903cb7192760"
+      "bytes": 195,
+      "sha256": "df4db77f9706f627ca71729a12821c1366f1192880c3fcd0ea5b227e75c12c9d"
     },
     {
       "path": "양식/학술/해외/옥스퍼드 학위논문 자료/main.typ",
-      "bytes": 518,
-      "sha256": "da955a6d61f6ca014cd819b9dcf866c75d34511eb835c5a0a66fcf129e3364bc"
+      "bytes": 499,
+      "sha256": "01d77ef6c72cc7a8e86b1a0be9ffca11cb7650929e785427505dc4e09539bd4d"
     },
     {
       "path": "양식/학술/해외/옥스퍼드 학위논문 자료/시작 문서.md",

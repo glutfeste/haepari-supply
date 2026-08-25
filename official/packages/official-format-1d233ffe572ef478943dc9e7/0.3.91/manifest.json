@@ -4,25 +4,25 @@
   "title": "한 해 달력",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-1d233ffe572ef478943dc9e7/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-1d233ffe572ef478943dc9e7/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT-0)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-1d233ffe572ef478943dc9e7/0.3.91/package.tar.gz",
-  "packageBytes": 2546,
-  "packageSha256": "89c414bb9380bf2e431a085e2ce3aa075ceb00f043d217d72fe2567016578432",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-1d233ffe572ef478943dc9e7/0.3.91/package.tar.gz",
+  "packageBytes": 2521,
+  "packageSha256": "b6ce0c6f1d6cb2f39c3f5a7276cb0756b5db7ed8899f6613592324b879d811e0",
   "entrypoint": "양식/생활/한 해 달력.md",
   "files": [
     {
       "path": "양식/생활/한 해 달력 자료/LICENSE",
-      "bytes": 917,
-      "sha256": "0f395dbfb3ad830b0e8357a2d90556ab194dc711dc1ac7eb5094696ab9853a1c"
+      "bytes": 910,
+      "sha256": "2e2d59ca532f45ad1d18ce7053049a0ac2d827e02d7e3c9577f94d64b1b99e16"
     },
     {
       "path": "양식/생활/한 해 달력 자료/main.typ",
-      "bytes": 188,
-      "sha256": "e5e35dc32ba41b5de0dee24efb4e8d2aeff6e9c82a594aadfc4dab4a141635ec"
+      "bytes": 176,
+      "sha256": "5a6afb541b31f422c465fcdbee957b46427348050e2e400dc0e65bd5df03950c"
     },
     {
       "path": "양식/생활/한 해 달력 자료/시작 문서.md",

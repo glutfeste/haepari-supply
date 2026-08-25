@@ -4,25 +4,25 @@
   "title": "요리책",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-d3caaa0b646df0538c24baf2/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-d3caaa0b646df0538c24baf2/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-d3caaa0b646df0538c24baf2/0.3.91/package.tar.gz",
-  "packageBytes": 3030,
-  "packageSha256": "bb56b021b199c0a989da3b1fe174ec69375e856a3563ad0a8ebb17e37eb5a2cc",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-d3caaa0b646df0538c24baf2/0.3.91/package.tar.gz",
+  "packageBytes": 2985,
+  "packageSha256": "5a4a7de2d7ecf864e4ca7166e426c025caa01234e38d14f1669cd23b00b01b7c",
   "entrypoint": "양식/생활/요리책.md",
   "files": [
     {
       "path": "양식/생활/요리책 자료/LICENSE",
-      "bytes": 1111,
-      "sha256": "86f06e27669eb04ce8fb5cfec1e956b344edb5ee8e559945e675460e4a93e9ac"
+      "bytes": 1091,
+      "sha256": "9cf905ab82e99e1f88ba1bd1fd884eca9de4ff9e0aecc2baba17dfd1562371f4"
     },
     {
       "path": "양식/생활/요리책 자료/main.typ",
-      "bytes": 1364,
-      "sha256": "6ef663d6fcef602cc4c55ef8535db61cd33b79daafa07f9915c5c790dbe1bcd1"
+      "bytes": 1284,
+      "sha256": "5f60aaf62ddfbd772c52744d667b64f7511eef943b6dbb5098f3eb7f1f3846b0"
     },
     {
       "path": "양식/생활/요리책 자료/시작 문서.md",

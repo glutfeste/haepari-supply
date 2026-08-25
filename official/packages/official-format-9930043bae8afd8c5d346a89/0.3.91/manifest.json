@@ -4,35 +4,35 @@
   "title": "맨체스터대 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-9930043bae8afd8c5d346a89/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-9930043bae8afd8c5d346a89/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT-0)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-9930043bae8afd8c5d346a89/0.3.91/package.tar.gz",
-  "packageBytes": 14353,
-  "packageSha256": "eb86d467ea880eb32b6a8a5cacfc700a6468ec1894bf183ed0f19261647e6d80",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-9930043bae8afd8c5d346a89/0.3.91/package.tar.gz",
+  "packageBytes": 13983,
+  "packageSha256": "721d2092e40d5ba61acc6264a3c3c38f5ffe1ca58402199113ae4b4357116ac1",
   "entrypoint": "양식/학술/해외/맨체스터대 학위논문.md",
   "files": [
     {
       "path": "양식/학술/해외/맨체스터대 학위논문 자료/LICENSE",
-      "bytes": 890,
-      "sha256": "2dc917e7edfee15ea3c29947bb01a174e967634ec10a5053bb9ba0c98874237c"
+      "bytes": 877,
+      "sha256": "ec0cfb60bb408b5e81b043bc812fa2f634101debafb3be55ac20440afff081b1"
     },
     {
       "path": "양식/학술/해외/맨체스터대 학위논문 자료/image.svg",
-      "bytes": 28942,
-      "sha256": "40a9448381120326d5a99eccfa88f20dad361c95120c190c6ed132fde99d00c1"
+      "bytes": 28892,
+      "sha256": "937d28d121f487e420f1b372905186b0f4111dd213b6f1e4fb0d83d6388e040b"
     },
     {
       "path": "양식/학술/해외/맨체스터대 학위논문 자료/main.typ",
-      "bytes": 8096,
-      "sha256": "b32e80138edd3a76920d5fecc25a0685dbca793e3419286a82f2c18c677bc9ca"
+      "bytes": 7927,
+      "sha256": "3ebbd31acf08f5637639f1bac79fa7031834aa4e3fe185c7f06d89f64fde271e"
     },
     {
       "path": "양식/학술/해외/맨체스터대 학위논문 자료/references.yml",
-      "bytes": 1192,
-      "sha256": "60c6bc80741054d9b2eee31a349a24dc42db71a33ca7467424d225c3c3bad7b9"
+      "bytes": 1151,
+      "sha256": "c97a38a61e76d7b74a504c58d1096309b3d098126e80962d7b7095e16b8d2b8a"
     },
     {
       "path": "양식/학술/해외/맨체스터대 학위논문 자료/시작 문서.md",

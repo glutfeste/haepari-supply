@@ -4,30 +4,30 @@
   "title": "찰머스공대 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-9428b38d45de2b4b51c55e5b/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-9428b38d45de2b4b51c55e5b/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-9428b38d45de2b4b51c55e5b/0.3.91/package.tar.gz",
-  "packageBytes": 4038,
-  "packageSha256": "c536d5fffe775a8fdd925f28438f5cb5e000f8b568a6e0ee46e8c67ae438c4bd",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-9428b38d45de2b4b51c55e5b/0.3.91/package.tar.gz",
+  "packageBytes": 3984,
+  "packageSha256": "628aec779e1bb908742c5b4020926faea45b953883542a705968f641e559497e",
   "entrypoint": "양식/학술/해외/찰머스공대 학위논문.md",
   "files": [
     {
       "path": "양식/학술/해외/찰머스공대 학위논문 자료/LICENSE",
-      "bytes": 1104,
-      "sha256": "009b002d466f47d9fbd38fa104c62944464d59864b55134a4a7e2c71f6701753"
+      "bytes": 1084,
+      "sha256": "f3809dd0e78ecb30fc11ae2c560ea87ef6df9f7b52501d2afd07c5aa04b11731"
     },
     {
       "path": "양식/학술/해외/찰머스공대 학위논문 자료/main.typ",
-      "bytes": 1653,
-      "sha256": "033650351ec4e7cd8612b25aa8403843d7fc86ee2ac4265e43c4a77f02d305dc"
+      "bytes": 1581,
+      "sha256": "1fa68ab09e714735b199a08bbc1bcf43ed98f1aa750ee8a695c62b4d06cfe57b"
     },
     {
       "path": "양식/학술/해외/찰머스공대 학위논문 자료/references.yaml",
-      "bytes": 231,
-      "sha256": "642b88655e902f080bc603deda0dbc5bad52b70ba8092469d5bb3fe88b93a4d4"
+      "bytes": 224,
+      "sha256": "215cdd9df294b0381cda8ada95b4d1c1d4a8153d87ec60293315fcc9dd3f4234"
     },
     {
       "path": "양식/학술/해외/찰머스공대 학위논문 자료/시작 문서.md",

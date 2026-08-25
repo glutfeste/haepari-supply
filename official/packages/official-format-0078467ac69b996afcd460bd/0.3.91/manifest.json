@@ -4,25 +4,25 @@
   "title": "편지",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-0078467ac69b996afcd460bd/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-0078467ac69b996afcd460bd/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (Unlicense)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-0078467ac69b996afcd460bd/0.3.91/package.tar.gz",
-  "packageBytes": 3830,
-  "packageSha256": "d99da5fae947284f6379fd32e1b2c2d690691a20ca7221bb7c2c097eed024d8e",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-0078467ac69b996afcd460bd/0.3.91/package.tar.gz",
+  "packageBytes": 3806,
+  "packageSha256": "a862e6cc26186544a5d682a50acd6e7f854e9bb798970aa0bc3ee4e1aeb73e5a",
   "entrypoint": "양식/서신/편지.md",
   "files": [
     {
       "path": "양식/서신/편지 자료/LICENSE",
-      "bytes": 1235,
-      "sha256": "640514163b17f977adc997cb16f51871122cfb0555ebad1a3f01e167b7ba8857"
+      "bytes": 1211,
+      "sha256": "7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c"
     },
     {
       "path": "양식/서신/편지 자료/main.typ",
-      "bytes": 1186,
-      "sha256": "8328b87b7b91c019b1f7760f78799e91d64c3e8b4065bd09f12836506c066f02"
+      "bytes": 1137,
+      "sha256": "f111eb1b405ba124925fc17ca2f9b9df49e29f612bddfe3f8bbb8778f4d6fdb8"
     },
     {
       "path": "양식/서신/편지 자료/시작 문서.md",

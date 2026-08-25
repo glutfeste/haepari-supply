@@ -4,105 +4,105 @@
   "title": "KTH 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-1457ef5f45c62c3bb6235a23/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-1457ef5f45c62c3bb6235a23/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT OR MIT-0)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-1457ef5f45c62c3bb6235a23/0.3.91/package.tar.gz",
-  "packageBytes": 9722,
-  "packageSha256": "b828aef6e9912a76797e35fc7c97780a40e4b36379b1b17a90370e6b5191836f",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-1457ef5f45c62c3bb6235a23/0.3.91/package.tar.gz",
+  "packageBytes": 9662,
+  "packageSha256": "f145d1830398175f99f474cc26684f8ef86d366912d7fa0554cab244b8c0b83d",
   "entrypoint": "양식/학술/해외/KTH 학위논문.md",
   "files": [
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/LICENSE-MIT",
-      "bytes": 1093,
-      "sha256": "394486cab8019a067964ecd1abe53636f0e8f7bc23a80002af9d891c65e68b9e"
+      "bytes": 1072,
+      "sha256": "ed603a2da112b1d5d73ddceeb7ff9d40d41960898cfdf8bf02d3f0ca324b21e1"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/LICENSE-MIT-0",
-      "bytes": 932,
-      "sha256": "524afd6b6d53d99c800a4b49f213aa01a84be654dfc0039c50a7c22040a0f9ae"
+      "bytes": 914,
+      "sha256": "870168f048cdc5ba566abcc9ed00ab847d1415a16dc84dc83c370bef792eadf6"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/acronyms.typ",
-      "bytes": 299,
-      "sha256": "645806300bfb0d0335d624e16fc281a00e8e6206c911d1726e06a3e335bdcd66"
+      "bytes": 284,
+      "sha256": "1e8842df582880b28d3cdab583711381f03c93283a2f3db86f33439ba357ba20"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/content/abstract-1-en.typ",
-      "bytes": 13,
-      "sha256": "a03aedcfe7fa6b02c14ed83e5b6210995afd8337b92ea1a0ec93b3949b0492f3"
+      "bytes": 12,
+      "sha256": "6bf4b5abd81815c14edae909e202743db5f57538f05bd0d3a3128113f81a6056"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/content/abstract-2-sv.typ",
-      "bytes": 13,
-      "sha256": "a03aedcfe7fa6b02c14ed83e5b6210995afd8337b92ea1a0ec93b3949b0492f3"
+      "bytes": 12,
+      "sha256": "6bf4b5abd81815c14edae909e202743db5f57538f05bd0d3a3128113f81a6056"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/content/abstract-3-pt.typ",
-      "bytes": 13,
-      "sha256": "a03aedcfe7fa6b02c14ed83e5b6210995afd8337b92ea1a0ec93b3949b0492f3"
+      "bytes": 12,
+      "sha256": "6bf4b5abd81815c14edae909e202743db5f57538f05bd0d3a3128113f81a6056"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/content/acknowledgements.typ",
-      "bytes": 42,
-      "sha256": "e6bcf8c12117aee798ced58413da4a93d26361c85f8f11b1fbec21b5f39b9331"
+      "bytes": 37,
+      "sha256": "403eae7a4647c77a93242bf5e2a822b42be37a779a0c3a0a57997c5b901fb6cd"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/content/ch01-introduction.typ",
-      "bytes": 202,
-      "sha256": "2e69ae58341887d5c1c5437e9bef102befaffa354fdf93719d139c345c0cf1b8"
+      "bytes": 181,
+      "sha256": "4ce8440f13d08ff89f22bc3014dd083059c4fed3a0036ff44b9c26eaed033227"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/content/ch02-background.typ",
-      "bytes": 277,
-      "sha256": "142391475b24b39ae1bd558dca1779e1e7922c7bcf7d2e81a55af66bb54e80d9"
+      "bytes": 252,
+      "sha256": "93ecbf8e635f9e4a05925c71f3ce263dd4ace3f15004e253acbdf6359e48465d"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/content/ch03-method.typ",
-      "bytes": 251,
-      "sha256": "d4a32444d9d9e91080a970711c90162f1c560534f4d021ddd0f0a6b8044ca0ae"
+      "bytes": 224,
+      "sha256": "0d8d8e5939e9c302b11f58a3836696100525486c95c572d2bf391ae7ee6fdc0d"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/content/ch04-the-thing.typ",
-      "bytes": 204,
-      "sha256": "749aa9a4e648fa23e30608ddbbdffe19be20c0c8112dcb3329f5c8914c8db9ec"
+      "bytes": 189,
+      "sha256": "97fcd5831e79be9615d59c87152b24ae67569a84fd33a9bd160208392b0bc4c4"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/content/ch05-results.typ",
-      "bytes": 70,
-      "sha256": "85457c6ac8f12ebb17afca846beccc169bfa7e31d804be28f3ff29b1770c996d"
+      "bytes": 65,
+      "sha256": "63c4aaaeae99410d105657f8ef57fa91571b533f178b6d781cca1b1550303b33"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/content/ch06-discussion.typ",
-      "bytes": 245,
-      "sha256": "dadc8c5279823e5807a037308559ebe41d133db1106642319d6d85919d90b84e"
+      "bytes": 236,
+      "sha256": "1aad627d8c24bcebdca40154948eebddded422b8cd2c8fbdcb1356b428235ae9"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/content/ch07-conclusion.typ",
-      "bytes": 114,
-      "sha256": "769529f37b947b8958f4bc193f59be4e3e0217eac0a5136481231324505d4dc4"
+      "bytes": 109,
+      "sha256": "625357380c9cc76ea511c71c8ef40f6f690eba8a3cbac1bd838fed68a83a80e7"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/content/zz-a-usage.typ",
-      "bytes": 56,
-      "sha256": "48e96e1538df8b794930e8309660215ac22fd315cc13ab84900b3b8c419a51a3"
+      "bytes": 51,
+      "sha256": "895d885ae4643f361a3aff17bf21409136fa2568284324d3ba8970cd2536dc70"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/content/zz-b-else.typ",
-      "bytes": 27,
-      "sha256": "1aa9f76a3370a15e5888c7a4dc1be1415f587bfd83d8e4c81b5c4e7f70adb9e2"
+      "bytes": 24,
+      "sha256": "61cddbdaed31b4d0fa1ade98d4b292bb2646478f549846d15c446d3d57af6422"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/references.yaml",
-      "bytes": 513,
-      "sha256": "536dbf9ebe14c1b42d507442882c94d9e1ceb4a51fe58d17b13477f8e1d9e1ce"
+      "bytes": 495,
+      "sha256": "b5709d5fd26da4809b57365f46562148bc22634dc659d359a48c36503224ee7d"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/thesis.typ",
-      "bytes": 8039,
-      "sha256": "37d5d2d3e2eabf90cfebc591cadae00a904e14e6c386f68c97a136528342598c"
+      "bytes": 7844,
+      "sha256": "e58e2e2c77deef92b59f1be18dc94bca76f22b91dd1b8ad03c6b7e068b898775"
     },
     {
       "path": "양식/학술/해외/KTH 학위논문 자료/시작 문서.md",

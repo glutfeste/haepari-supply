@@ -4,30 +4,30 @@
   "title": "UC 버클리 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-8b2848ad584d3ca73846c94a/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-8b2848ad584d3ca73846c94a/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-8b2848ad584d3ca73846c94a/0.3.91/package.tar.gz",
-  "packageBytes": 6176,
-  "packageSha256": "61b83e5e8652090e31d96ef30d5eb45242a69295042b528fed8eaf9955e17cd9",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-8b2848ad584d3ca73846c94a/0.3.91/package.tar.gz",
+  "packageBytes": 6125,
+  "packageSha256": "59b1696ab1fc24912bfbdef00271dd53d1ef81599d1a5d28512dad120bd44fad",
   "entrypoint": "양식/학술/해외/UC 버클리 학위논문.md",
   "files": [
     {
       "path": "양식/학술/해외/UC 버클리 학위논문 자료/LICENSE",
-      "bytes": 898,
-      "sha256": "602bdb3162ecc0116eba01b8aefe80306f65aeaec122d4bb17f927dd820e9ca2"
+      "bytes": 893,
+      "sha256": "f7897a8a8d5721ec8b33117e46c0498db9667d258c850344906b2bf15197ba25"
     },
     {
       "path": "양식/학술/해외/UC 버클리 학위논문 자료/main.typ",
-      "bytes": 7216,
-      "sha256": "8ac1ccceee11c1d3524bbd37a976654dcdfe815beef9ee526745a64ecd5873ea"
+      "bytes": 7041,
+      "sha256": "7edae8e3ef9c37ff8005c9f8cc2952e31816246b501b760c29dca2373ee8095b"
     },
     {
       "path": "양식/학술/해외/UC 버클리 학위논문 자료/references.bib",
-      "bytes": 1913,
-      "sha256": "91e4062fa79807cd889883249bc17e296344135bf0a8b16184316c08d0ff977b"
+      "bytes": 1870,
+      "sha256": "5edd8b2ff0dad1091ac0289c2322bea8506469dc2c7257340a1329581f11eb31"
     },
     {
       "path": "양식/학술/해외/UC 버클리 학위논문 자료/시작 문서.md",

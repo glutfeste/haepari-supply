@@ -4,35 +4,35 @@
   "title": "케임브리지 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-5a755f40ff878f8b77ca3d2f/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-5a755f40ff878f8b77ca3d2f/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-5a755f40ff878f8b77ca3d2f/0.3.91/package.tar.gz",
-  "packageBytes": 3946,
-  "packageSha256": "856007a11b8c83c792b5650ff697102c8e54bfc4a566074bf986a297d75c915c",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-5a755f40ff878f8b77ca3d2f/0.3.91/package.tar.gz",
+  "packageBytes": 3887,
+  "packageSha256": "b45b7aa9632c5eda9da236394b8208c63936dc5597532f73a2e902917acedf84",
   "entrypoint": "양식/학술/해외/케임브리지 학위논문.md",
   "files": [
     {
       "path": "양식/학술/해외/케임브리지 학위논문 자료/LICENSE",
-      "bytes": 1087,
-      "sha256": "af475f9581b4f539b297b91a9d3c09812afd8c8c04d1c7f2a209e08213a71fbb"
+      "bytes": 1067,
+      "sha256": "1beec6617b81b2361ced17bee77e3e6f39f3846f8ae15909f2a518cdff22b738"
     },
     {
       "path": "양식/학술/해외/케임브리지 학위논문 자료/assets/placeholder.svg",
-      "bytes": 928,
-      "sha256": "787d64d1e3372f2433a19bd9ef87763e6daa0d747e7053f753367fe64cc023f5"
+      "bytes": 914,
+      "sha256": "c394238193c9ea69857d7e19f99e205bbcd75c7097253c247ee21bb35ea46271"
     },
     {
       "path": "양식/학술/해외/케임브리지 학위논문 자료/bibliography.yml",
-      "bytes": 164,
-      "sha256": "1dcd579a046f158a5ef5e35d09811ced2abd05ab3f18743a49ffc6caac9b17ef"
+      "bytes": 157,
+      "sha256": "84d956ed2d47115c66c563ec77dac57c0cee6947a61c4cf8ad97b4811369d403"
     },
     {
       "path": "양식/학술/해외/케임브리지 학위논문 자료/main.typ",
-      "bytes": 1416,
-      "sha256": "e3a3ce15ca30bcb95142ecdc9ce6f2d447ae1ed85a3299e0483e9c0807c67ced"
+      "bytes": 1298,
+      "sha256": "e9ebd7cee27bdcc3e0f8fe01a7cbe84af8fbee122ec7d4a00a748ade32e9f5c3"
     },
     {
       "path": "양식/학술/해외/케임브리지 학위논문 자료/시작 문서.md",

@@ -4,55 +4,55 @@
   "title": "케이프타운대 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-1458d0b4c62fc2a2dcfe52ad/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-1458d0b4c62fc2a2dcfe52ad/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT-0)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-1458d0b4c62fc2a2dcfe52ad/0.3.91/package.tar.gz",
-  "packageBytes": 5060896,
-  "packageSha256": "c40b34e8393b0ed40f443cfce7578cd83c6ebeef00ebb0ca782cd74f835b6e75",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-1458d0b4c62fc2a2dcfe52ad/0.3.91/package.tar.gz",
+  "packageBytes": 5060797,
+  "packageSha256": "cbc5ee4512c98d640512d9b955191f132faf85fc6aba692ffe41fdabecdb18e5",
   "entrypoint": "양식/학술/해외/케이프타운대 학위논문.md",
   "files": [
     {
       "path": "양식/학술/해외/케이프타운대 학위논문 자료/LICENSE",
-      "bytes": 931,
-      "sha256": "aeb54cf6f26e4bd11a0e0d3254d13a521ced7e9a61a465247dc14d81279b3f16"
+      "bytes": 913,
+      "sha256": "ec0e78f55869bba0889039c841ce9b3b4a6e92374b6165b50df1ccdf0e564139"
     },
     {
       "path": "양식/학술/해외/케이프타운대 학위논문 자료/chapters/chapter01.typ",
-      "bytes": 2498,
-      "sha256": "6c6b08936bae12f522fff25fbfa4c67980c7ab411f245ebbf832ab2274546081"
+      "bytes": 2467,
+      "sha256": "5b4bc6a7a65683a60baf7f04cdd2590d1c7c5ac21641bf59854a322ddd6dfe49"
     },
     {
       "path": "양식/학술/해외/케이프타운대 학위논문 자료/chapters/chapter02.typ",
-      "bytes": 1670,
-      "sha256": "e0e29aed68df7f06b3d4a8725f4442cac33853cd0e2982d7741d8cffd1926932"
+      "bytes": 1636,
+      "sha256": "7952db7a5dfe4c33ce6840818825bfa1edd8bd0a3f56648ec810ea37d26dc1b2"
     },
     {
       "path": "양식/학술/해외/케이프타운대 학위논문 자료/chapters/chapter03.typ",
-      "bytes": 528,
-      "sha256": "c7bed8576f64a083596cc76157779ea98e6fe8e0a77857546e7f3e7a98940ef7"
+      "bytes": 510,
+      "sha256": "c5ad94e0734fd412d13787c38663c40f5a350c92d6656587ab1806922f3a8596"
     },
     {
       "path": "양식/학술/해외/케이프타운대 학위논문 자료/chapters/chapter04.typ",
-      "bytes": 2825,
-      "sha256": "b94ff10468f0bc88bab30fa0955fbec8504275fa994ec4164dbc359c2439f47b"
+      "bytes": 2780,
+      "sha256": "950881289ac25a96a632729998a58af5d5b9f47bdfcae439aac21bef91d10178"
     },
     {
       "path": "양식/학술/해외/케이프타운대 학위논문 자료/chapters/chapter05.typ",
-      "bytes": 1245,
-      "sha256": "9c65bb6421a07c11bd9a32d6f5d400b283ed1d0909cf394556a743b693e9748a"
+      "bytes": 1217,
+      "sha256": "7bc91ec9971f7b6b375f7a6117e2062681d7c8e850b82b94a652c5a81e988a59"
     },
     {
       "path": "양식/학술/해외/케이프타운대 학위논문 자료/chapters/chapter06.typ",
-      "bytes": 624,
-      "sha256": "adb4dde3480dd3e6ee57c6724c2d99dbe9c6e99960b4c249949b9c679af1308f"
+      "bytes": 609,
+      "sha256": "66494dc2ad8fbc6ba9ea35e287cdd0b6669de204ab470d322f62d8107b873b01"
     },
     {
       "path": "양식/학술/해외/케이프타운대 학위논문 자료/chapters/chapter07.typ",
-      "bytes": 422,
-      "sha256": "35bcf0f64eddb84a2e69b3758ec1d9a706423b90f2f98ccef443d70c130f4b35"
+      "bytes": 417,
+      "sha256": "70b6ffdc451da81420a1227fa8556efeaef419232d35ee4ce158586eb67b4374"
     },
     {
       "path": "양식/학술/해외/케이프타운대 학위논문 자료/graphics/antarctic_environments.png",
@@ -81,13 +81,13 @@
     },
     {
       "path": "양식/학술/해외/케이프타운대 학위논문 자료/main.typ",
-      "bytes": 4609,
-      "sha256": "d40260227cecb2adbdbbb715841359ba8c262f35defafe511c4a419a6930da00"
+      "bytes": 4461,
+      "sha256": "23fd07b6901b2ae14cea1b06dfd33f70c1d102ea5866bb83b1d3f538750ce37f"
     },
     {
       "path": "양식/학술/해외/케이프타운대 학위논문 자료/references.bib",
-      "bytes": 207,
-      "sha256": "fbc67c692d5d825efde15819208f55a506b2a193c1262b6608a21044e730ba0b"
+      "bytes": 201,
+      "sha256": "c71df18c0a677a2f28e7da5774ed2e1b294bf5a162e6d3ed0121c2e95b3d0b18"
     },
     {
       "path": "양식/학술/해외/케이프타운대 학위논문 자료/시작 문서.md",

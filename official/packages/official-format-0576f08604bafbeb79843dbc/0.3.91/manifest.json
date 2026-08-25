@@ -4,55 +4,55 @@
   "title": "국립대만대 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-0576f08604bafbeb79843dbc/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-0576f08604bafbeb79843dbc/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-0576f08604bafbeb79843dbc/0.3.91/package.tar.gz",
-  "packageBytes": 6204,
-  "packageSha256": "e1ce6c9c4442b2bbb21f923e9d1427deb3344a0a34b0d1ffe8d21a644ff252e6",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-0576f08604bafbeb79843dbc/0.3.91/package.tar.gz",
+  "packageBytes": 6161,
+  "packageSha256": "177ce82bbaf6e422d7d6e64638274ca58691b77157846a891516344c5562a248",
   "entrypoint": "양식/학술/해외/국립대만대 학위논문.md",
   "files": [
     {
       "path": "양식/학술/해외/국립대만대 학위논문 자료/LICENSE",
-      "bytes": 1089,
-      "sha256": "3524ee87f23f3ed133a3779dc6299a74ec8e85154934ef0c7a69abdd207b8ae3"
+      "bytes": 1067,
+      "sha256": "3e06465d35fa4b47a32166f1afd618788835c1c12a3fd9b3be0724ea40610a64"
     },
     {
       "path": "양식/학술/해외/국립대만대 학위논문 자료/bibliography/refs.bib",
-      "bytes": 403,
-      "sha256": "d549a0caa3b00940431210cc82a63c7fe4e7b9991420a356467a1aa2c8e0bc0c"
+      "bytes": 389,
+      "sha256": "851bad2954c6020a27b0f5e0d6c751ca92c00498040f15fd679fc9c542154657"
     },
     {
       "path": "양식/학술/해외/국립대만대 학위논문 자료/main.typ",
-      "bytes": 1516,
-      "sha256": "6b570dd29a3f75778ff8b8323df0ebcca2fd4f164ac13734d742f8a88f9bb90b"
+      "bytes": 1471,
+      "sha256": "933cb261dae70a63bf7fac1c0e2b471ba408d869fe1b57ac8d9e7e98e53cdb1f"
     },
     {
       "path": "양식/학술/해외/국립대만대 학위논문 자료/sections/abstract-en.typ",
-      "bytes": 338,
-      "sha256": "71f433ca9bc6dc9c88a58004e57acbc03fa45b4966cf5a0fec36b31db200d48c"
+      "bytes": 337,
+      "sha256": "b7a0465a963bbbb22b2c6b26b50da48aa2d430663f05a127272a7ec3143aeef0"
     },
     {
       "path": "양식/학술/해외/국립대만대 학위논문 자료/sections/abstract-zh.typ",
-      "bytes": 273,
-      "sha256": "45e0146c9bd771f73efa29d4e5c03a0e3979914aa05da64632152b5efb61aa74"
+      "bytes": 272,
+      "sha256": "bfda28ad9196c83c41e567f00050dccfdb14efa0f442e5d2345260fde29b42d5"
     },
     {
       "path": "양식/학술/해외/국립대만대 학위논문 자료/sections/acknowledgement-en.typ",
-      "bytes": 281,
-      "sha256": "99514bc930ebf7dd8fe93d4919aee1c3d11fd57075191c251de6b112c55f098d"
+      "bytes": 280,
+      "sha256": "71f633f43b667c023338debcd5ca96404ec95fb1e590b43c84a5085cd34cadc2"
     },
     {
       "path": "양식/학술/해외/국립대만대 학위논문 자료/sections/acknowledgement-zh.typ",
-      "bytes": 191,
-      "sha256": "a0f0f47a4234eac59aeddeeac482d008cd1f12a8ada212c215972786d31d6bb0"
+      "bytes": 190,
+      "sha256": "902a070934b63c8905daa80b210825f22860fb00ace0da08e4895a7c4e50eaa8"
     },
     {
       "path": "양식/학술/해외/국립대만대 학위논문 자료/sections/chapters/introduction.typ",
-      "bytes": 874,
-      "sha256": "f6edc0c5aea1d2fbbf1be47cfaf35e54be60a45fba26c92c8fe3e61d84b2cbdf"
+      "bytes": 846,
+      "sha256": "66fa9540080f6f16a2159e28497ff28e7fac18e9ead104b2c3c217bb6752ec46"
     },
     {
       "path": "양식/학술/해외/국립대만대 학위논문 자료/시작 문서.md",

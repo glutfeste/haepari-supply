@@ -4,30 +4,30 @@
   "title": "베이징대 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-7366f73284b388cd7dc3c87c/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-7366f73284b388cd7dc3c87c/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-7366f73284b388cd7dc3c87c/0.3.91/package.tar.gz",
-  "packageBytes": 6072,
-  "packageSha256": "743dcdd643bd6dcd5b01dcb4d306d65d5cea5ead32a184c758526cadc51dc43b",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-7366f73284b388cd7dc3c87c/0.3.91/package.tar.gz",
+  "packageBytes": 6040,
+  "packageSha256": "5700eee831a3beb27ae1a54804e7a83fb1cb204fb7915b2aa989ae440e152d10",
   "entrypoint": "양식/학술/해외/베이징대 학위논문.md",
   "files": [
     {
       "path": "양식/학술/해외/베이징대 학위논문 자료/LICENSE",
-      "bytes": 1088,
-      "sha256": "4c0ca1e71fe915817385063adef3e0d55ebb0b41eabddc1bfa16c34662893c7f"
+      "bytes": 1067,
+      "sha256": "fa4fd092b830b556b80572be86d6cfe2c1e1c42193bdce3ed04961f9a8636dce"
     },
     {
       "path": "양식/학술/해외/베이징대 학위논문 자료/main.typ",
-      "bytes": 2982,
-      "sha256": "2f84f9d22ce129585feecc5073aceda1415b86e32a45a815e6cb4adf150ef75d"
+      "bytes": 2877,
+      "sha256": "5e75ccf098e117062a9f7dc771e21606efd73b1e7b11d263d627765622ec13e0"
     },
     {
       "path": "양식/학술/해외/베이징대 학위논문 자료/ref.bib",
-      "bytes": 348,
-      "sha256": "f0727b498173e16a1a9f47e89d347c4bcf66d3ab65f63624425d07c2212b4cfc"
+      "bytes": 333,
+      "sha256": "67b8416988bbc009dac58be52d13613d2b13d16cc384e95831eb36833c9f5e6b"
     },
     {
       "path": "양식/학술/해외/베이징대 학위논문 자료/시작 문서.md",

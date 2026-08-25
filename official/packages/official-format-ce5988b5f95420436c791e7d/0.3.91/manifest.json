@@ -4,14 +4,14 @@
   "title": "내용증명",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-ce5988b5f95420436c791e7d/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-ce5988b5f95420436c791e7d/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-ce5988b5f95420436c791e7d/0.3.91/package.tar.gz",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-ce5988b5f95420436c791e7d/0.3.91/package.tar.gz",
   "packageBytes": 4022,
-  "packageSha256": "b5cf3db545ae79088d5f65df02aef446300e651e5cb9f7d066f3482dbbdf9509",
+  "packageSha256": "2430ad7467c3d6731d6baaac9ca9ec87439d9b86aa25e5af336ba85c80b2150a",
   "entrypoint": "양식/법률/내용증명.md",
   "files": [
     {

@@ -4,14 +4,14 @@
   "title": "서명 승인",
   "kind": "frame",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-frame-c0a1308101b82c82ea8ae75d/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-frame-c0a1308101b82c82ea8ae75d/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-frame-c0a1308101b82c82ea8ae75d/0.3.91/package.tar.gz",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-frame-c0a1308101b82c82ea8ae75d/0.3.91/package.tar.gz",
   "packageBytes": 1159,
-  "packageSha256": "86c594d7f3a46e646545eac7a9b4d6aa4467c714f91bd6164f654b4376843b82",
+  "packageSha256": "80cc40ea1df45ee1767baaa38c7f4f20b3c8eeb922531dea106f8eca44e407aa",
   "entrypoint": "틀/서명 승인.md",
   "files": [
     {

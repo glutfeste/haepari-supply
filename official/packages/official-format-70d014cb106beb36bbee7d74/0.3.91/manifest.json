@@ -4,25 +4,25 @@
   "title": "오슬로대 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-70d014cb106beb36bbee7d74/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-70d014cb106beb36bbee7d74/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT-0)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-70d014cb106beb36bbee7d74/0.3.91/package.tar.gz",
-  "packageBytes": 2726,
-  "packageSha256": "9e3a95cc02af62e118db7c9ed9535d9cfcc8974aec19ec9a4900fb5e2b47cb5b",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-70d014cb106beb36bbee7d74/0.3.91/package.tar.gz",
+  "packageBytes": 2677,
+  "packageSha256": "185188f13a746ff33b031fea1509d82d30c6a20ac6fe64b237cba1a02d1ada0f",
   "entrypoint": "양식/학술/해외/오슬로대 학위논문.md",
   "files": [
     {
       "path": "양식/학술/해외/오슬로대 학위논문 자료/LICENSE",
-      "bytes": 956,
-      "sha256": "226f23b4c0cc77d791acca2aa2020dca2fd1d53f4608da331e8e03995a02c83f"
+      "bytes": 939,
+      "sha256": "5468d2401f65b4c5f12cf70304ebb9a266b111328a1d639d7ae72b008991aef8"
     },
     {
       "path": "양식/학술/해외/오슬로대 학위논문 자료/main.typ",
-      "bytes": 662,
-      "sha256": "05226106562c930ef80b9fcc590e77dea4ed1cf2f28c1b2affec4942952e3a33"
+      "bytes": 624,
+      "sha256": "d5f34facf9af11c8c0b6668fa135f6fc0db71c5d8b11e3bf7f45221d7dadb5d6"
     },
     {
       "path": "양식/학술/해외/오슬로대 학위논문 자료/시작 문서.md",

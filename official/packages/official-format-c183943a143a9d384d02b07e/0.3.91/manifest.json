@@ -4,25 +4,25 @@
   "title": "소설",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-c183943a143a9d384d02b07e/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-c183943a143a9d384d02b07e/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-c183943a143a9d384d02b07e/0.3.91/package.tar.gz",
-  "packageBytes": 4035,
-  "packageSha256": "45744b44dbc906e829ccc60816a9c600633c58657fe2b3fc41798673bd273039",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-c183943a143a9d384d02b07e/0.3.91/package.tar.gz",
+  "packageBytes": 4009,
+  "packageSha256": "c598606cfb01e8b5ca5e395db1835d9678ce5c02ee7c5ddd2468d5d0d82e6e6c",
   "entrypoint": "양식/출판/소설.md",
   "files": [
     {
       "path": "양식/출판/소설 자료/LICENSE",
-      "bytes": 1091,
-      "sha256": "9cc9d658163c51e08ea25e60cb7b88f1ff85d17f9f4f9a7c2807148326e61b56"
+      "bytes": 1070,
+      "sha256": "56b1b6f654c70963eda912ec305ca0aee6f4b7302c34e73fa6ab6a226b6452b3"
     },
     {
       "path": "양식/출판/소설 자료/main.typ",
-      "bytes": 803,
-      "sha256": "1fcb80f4e8bda97583f3d64a9d7b1e13a5c471fac56b8738e850291a42db55d0"
+      "bytes": 775,
+      "sha256": "28aaad25e64e06f0fecfe3515ff4b2742a486b957b2915b6572a120a38a29e5a"
     },
     {
       "path": "양식/출판/소설 자료/시작 문서.md",

@@ -4,50 +4,50 @@
   "title": "브리티시컬럼비아대 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-b6459d6d52dee193789173ba/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-b6459d6d52dee193789173ba/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-b6459d6d52dee193789173ba/0.3.91/package.tar.gz",
-  "packageBytes": 6508,
-  "packageSha256": "4cb34f498891dcb3704be327431bb0634b4c7bf0cae9355f5cb67a588213616c",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-b6459d6d52dee193789173ba/0.3.91/package.tar.gz",
+  "packageBytes": 6469,
+  "packageSha256": "54c8fac181896f0852efef29e0c2c59c41d5178caef5069cc1fc956097ab39df",
   "entrypoint": "양식/학술/해외/브리티시컬럼비아대 학위논문.md",
   "files": [
     {
       "path": "양식/학술/해외/브리티시컬럼비아대 학위논문 자료/LICENSE",
-      "bytes": 1090,
-      "sha256": "373edcaa825834e3cdb7e0bbdbf07d930f2202feeb43bee08a9406614885aab2"
+      "bytes": 1069,
+      "sha256": "ea56de236e8bcab0ca892d944288e1699e0685e29579ac16b1a193422758a258"
     },
     {
       "path": "양식/학술/해외/브리티시컬럼비아대 학위논문 자료/main.typ",
-      "bytes": 3286,
-      "sha256": "0ac9f14ff6dda97dde26f4010403118ac56aa6045a46d995d4129110ff541f66"
+      "bytes": 3193,
+      "sha256": "a6fdbb0fb3d07282b5e9b9aaa872b831a2ee9c8a1e9a4434658d15c4f60100a1"
     },
     {
       "path": "양식/학술/해외/브리티시컬럼비아대 학위논문 자료/preliminary_pages/abstract.typ",
-      "bytes": 246,
-      "sha256": "0840aca3948667db391d7e23b40ed3ea62f7abd3aff69276a9884780cc4ce9a3"
+      "bytes": 242,
+      "sha256": "01b46294f36842aa4092cd442353fe2df6eeedc1118bc3ddc64e2d1bac1d5832"
     },
     {
       "path": "양식/학술/해외/브리티시컬럼비아대 학위논문 자료/preliminary_pages/acknowledgments.typ",
-      "bytes": 263,
-      "sha256": "ba8733cbf13d3a001cdfec4fb1ebb8bd2e57330af0af288c179e1ecf35de1d32"
+      "bytes": 259,
+      "sha256": "8caa64d56da10ac18ea6f840f2bed1cd21b856167bd7e15785183914558942af"
     },
     {
       "path": "양식/학술/해외/브리티시컬럼비아대 학위논문 자료/preliminary_pages/lay_summary.typ",
-      "bytes": 202,
-      "sha256": "80970c9bd834f072a04d18d27ad3468dfdb592ca0c48d9bb3168d0567ed41933"
+      "bytes": 199,
+      "sha256": "13d4305773fcf0ebcec59e1162aa49fe9d8b9cfdf58f03a587379ac51e668026"
     },
     {
       "path": "양식/학술/해외/브리티시컬럼비아대 학위논문 자료/preliminary_pages/preface.typ",
-      "bytes": 241,
-      "sha256": "7c8080191b2ade4e83821e55aa08974058a645f3cefdb3e391bc929154a30383"
+      "bytes": 237,
+      "sha256": "41003b586b51244c13852ed53508091ef25ea5cab0d667a3df9f68577fe29949"
     },
     {
       "path": "양식/학술/해외/브리티시컬럼비아대 학위논문 자료/refs.bib",
-      "bytes": 249,
-      "sha256": "8bdca1c5de1e05c4e4f54ccde515fba1d8efe6bd8144fa5a19fd1d27e58cd596"
+      "bytes": 240,
+      "sha256": "ea9ffa49281b41addf45644af401286def9a323b4761db5b8b0334d4f392d7c6"
     },
     {
       "path": "양식/학술/해외/브리티시컬럼비아대 학위논문 자료/시작 문서.md",

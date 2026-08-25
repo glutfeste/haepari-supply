@@ -4,30 +4,30 @@
   "title": "코드 악보",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-ca451e5e455a0f25b24fc17d/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-ca451e5e455a0f25b24fc17d/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-ca451e5e455a0f25b24fc17d/0.3.91/package.tar.gz",
-  "packageBytes": 2748,
-  "packageSha256": "c0b99c7f0d846b22790900c6d0736ce3da907ffcf42249be76e74f01654b4531",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-ca451e5e455a0f25b24fc17d/0.3.91/package.tar.gz",
+  "packageBytes": 2726,
+  "packageSha256": "92987bdaa74aa244fe79b2e3b5a92d457542fde283326d3dc574f4b28b937233",
   "entrypoint": "양식/생활/코드 악보.md",
   "files": [
     {
       "path": "양식/생활/코드 악보 자료/LICENSE",
-      "bytes": 1062,
-      "sha256": "2bad614c2967df0d0d3a8e09c210fe5326835c4386d41a03c9cdbdcd55509778"
+      "bytes": 1055,
+      "sha256": "443e17a97929b5cc1a4271a39cde2a81d661692b0d6149c11d52018df6f3bc32"
     },
     {
       "path": "양식/생활/코드 악보 자료/main.typ",
-      "bytes": 160,
-      "sha256": "639d0560668c4410790d330e28c3ab67bdab2534a493a881d82b5ed6cc987d32"
+      "bytes": 153,
+      "sha256": "b6a47351dcc7880aeda493fe5377fa72497460815ed94e2083347eb5086911a7"
     },
     {
       "path": "양식/생활/코드 악보 자료/songs/Example Song.typ",
-      "bytes": 249,
-      "sha256": "3007764341cfede78de4aceffe1e4883df9057ae2bf07d3247354184d3a0415a"
+      "bytes": 237,
+      "sha256": "ff46d556557b584b813837c7bb15bdfc7d4cea0c8a0e9167bb3f85c7ce0d9be4"
     },
     {
       "path": "양식/생활/코드 악보 자료/시작 문서.md",

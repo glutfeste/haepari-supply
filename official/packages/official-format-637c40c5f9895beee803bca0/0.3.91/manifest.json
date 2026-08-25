@@ -4,14 +4,14 @@
   "title": "고려대 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-637c40c5f9895beee803bca0/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-637c40c5f9895beee803bca0/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-637c40c5f9895beee803bca0/0.3.91/package.tar.gz",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-637c40c5f9895beee803bca0/0.3.91/package.tar.gz",
   "packageBytes": 6227,
-  "packageSha256": "77a2bba83dbe779d7a02af6efa72c0c44c438c3f7f3feb54d94d1c523644d3b0",
+  "packageSha256": "0d2667bc75c87782cbcf821b9df86162a847960782a53e349684508ab740a713",
   "entrypoint": "양식/학술/고려대 학위논문.md",
   "files": [
     {

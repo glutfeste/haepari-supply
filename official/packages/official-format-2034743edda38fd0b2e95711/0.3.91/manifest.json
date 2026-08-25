@@ -4,14 +4,14 @@
   "title": "학회 논문 (IEEE)",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-2034743edda38fd0b2e95711/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-2034743edda38fd0b2e95711/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-2034743edda38fd0b2e95711/0.3.91/package.tar.gz",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-2034743edda38fd0b2e95711/0.3.91/package.tar.gz",
   "packageBytes": 1942,
-  "packageSha256": "753e315c7412017f346301ad27c443e541300c63c1415c680fb05e5fa5b113a2",
+  "packageSha256": "e1d68ad36dda781d906edac79be896a727858cdaeee025b38706428e2c8a45a0",
   "entrypoint": "양식/학술/학회 논문 (IEEE).md",
   "files": [
     {

@@ -4,30 +4,30 @@
   "title": "밀라노공대 학위논문",
   "kind": "format",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.2/official/packages/official-format-54d6bb1bb1c1dbd6666de9db/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.3/official/packages/official-format-54d6bb1bb1c1dbd6666de9db/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (GPL-3.0-only)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.2/official/packages/official-format-54d6bb1bb1c1dbd6666de9db/0.3.91/package.tar.gz",
-  "packageBytes": 15588,
-  "packageSha256": "d31d997354f5dc0cb25513369eb87fc733d597dcc0b838d1656436c7f001bd00",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.3/official/packages/official-format-54d6bb1bb1c1dbd6666de9db/0.3.91/package.tar.gz",
+  "packageBytes": 15375,
+  "packageSha256": "405f567336201d99e1fed4eadce0376069fe1b3d656bcf409791a720509cad2e",
   "entrypoint": "양식/학술/해외/밀라노공대 학위논문.md",
   "files": [
     {
       "path": "양식/학술/해외/밀라노공대 학위논문 자료/LICENSE",
-      "bytes": 35823,
-      "sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
     },
     {
       "path": "양식/학술/해외/밀라노공대 학위논문 자료/main.typ",
-      "bytes": 1094,
-      "sha256": "769e32e7acc47836cc44acf6a679442ab54b789d3c564f303ca4914aa6ebf383"
+      "bytes": 1029,
+      "sha256": "a816e75cb335ba834fd3207ca20e9dc59819f9bd4e992ab2b525126d0befc8fa"
     },
     {
       "path": "양식/학술/해외/밀라노공대 학위논문 자료/presentation.typ",
-      "bytes": 740,
-      "sha256": "068eb608e00652f1c2939968eaba76fe6b60ea485ab49f66d6eda5c86713336d"
+      "bytes": 687,
+      "sha256": "280417ac6466cb8cd53b851b687f25aeabf260558f78e265045ea70205ca192c"
     },
     {
       "path": "양식/학술/해외/밀라노공대 학위논문 자료/시작 문서.md",
