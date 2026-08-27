@@ -1,0 +1,33 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-theme-eb9e1169935bb82ad4355377",
+  "title": "청사진",
+  "kind": "theme",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.5/official/packages/official-theme-eb9e1169935bb82ad4355377/0.3.91/manifest.json",
+  "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.5/official/packages/official-theme-eb9e1169935bb82ad4355377/0.3.91/package.tar.gz",
+  "packageBytes": 2914,
+  "packageSha256": "a8aeebf27250a6d1e2915e4101153440d1b765bf73853e7fce59fc37537ca9f6",
+  "entrypoint": "겉모양/청사진/theme.json",
+  "files": [
+    {
+      "path": "겉모양/청사진/LICENSE",
+      "bytes": 1072,
+      "sha256": "822aa521f4b8773e7031865c12ada6398727b206f7f6aa5fce6bf6b1826aac69"
+    },
+    {
+      "path": "겉모양/청사진/NOTICE",
+      "bytes": 418,
+      "sha256": "0cc4bdd689ae1c02e0613bc136d938751350d4e03feedb90f6a65ff6638fcc5c"
+    },
+    {
+      "path": "겉모양/청사진/theme.json",
+      "bytes": 8263,
+      "sha256": "df6a987149787728fe61b6840bf402be2f70c817cd49c1b134e7cf4fdc639531"
+    }
+  ]
+}

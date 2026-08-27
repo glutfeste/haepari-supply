@@ -1,0 +1,33 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-theme-5948e4c5a00982facf89918c",
+  "title": "빙하 격자",
+  "kind": "theme",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.5/official/packages/official-theme-5948e4c5a00982facf89918c/0.3.91/manifest.json",
+  "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.5/official/packages/official-theme-5948e4c5a00982facf89918c/0.3.91/package.tar.gz",
+  "packageBytes": 2919,
+  "packageSha256": "1279c2bb3cee986f028a2607367c3c7f27c5234203585e7216ec293e664116af",
+  "entrypoint": "겉모양/빙하 격자/theme.json",
+  "files": [
+    {
+      "path": "겉모양/빙하 격자/LICENSE",
+      "bytes": 1072,
+      "sha256": "822aa521f4b8773e7031865c12ada6398727b206f7f6aa5fce6bf6b1826aac69"
+    },
+    {
+      "path": "겉모양/빙하 격자/NOTICE",
+      "bytes": 425,
+      "sha256": "bf34fff6ee23bfe3b14472bb3e5b625715e564f1f3beca427717691103ae1929"
+    },
+    {
+      "path": "겉모양/빙하 격자/theme.json",
+      "bytes": 8284,
+      "sha256": "3771e8046c1032a558f5f93ce594ff3106bf269c637751019a3b2d442d86bb76"
+    }
+  ]
+}

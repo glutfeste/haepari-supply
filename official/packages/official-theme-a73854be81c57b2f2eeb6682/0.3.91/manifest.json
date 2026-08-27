@@ -1,0 +1,33 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-theme-a73854be81c57b2f2eeb6682",
+  "title": "선명 교정",
+  "kind": "theme",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.5/official/packages/official-theme-a73854be81c57b2f2eeb6682/0.3.91/manifest.json",
+  "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.5/official/packages/official-theme-a73854be81c57b2f2eeb6682/0.3.91/package.tar.gz",
+  "packageBytes": 2827,
+  "packageSha256": "abd48764092172129db0327dea6b47b09fd7c345ad1f914625a97e8d122e65f8",
+  "entrypoint": "겉모양/선명 교정/theme.json",
+  "files": [
+    {
+      "path": "겉모양/선명 교정/LICENSE",
+      "bytes": 1072,
+      "sha256": "822aa521f4b8773e7031865c12ada6398727b206f7f6aa5fce6bf6b1826aac69"
+    },
+    {
+      "path": "겉모양/선명 교정/NOTICE",
+      "bytes": 427,
+      "sha256": "b7c1d6c554d7ff25a0281e6f60731b87e5c74d911678989d19eb3d5bb74a1a67"
+    },
+    {
+      "path": "겉모양/선명 교정/theme.json",
+      "bytes": 8281,
+      "sha256": "33dc263aa7cddbd4e1287b93ae623fd4ad21e5fd26a74ac87c2950107006b5cc"
+    }
+  ]
+}

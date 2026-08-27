@@ -1,0 +1,33 @@
+{
+  "schema": "haepari.antarctic.official-package",
+  "id": "official-theme-4814be1c84d4aa719ad8c155",
+  "title": "숲빛 서재",
+  "kind": "theme",
+  "version": "0.3.91",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.5/official/packages/official-theme-4814be1c84d4aa719ad8c155/0.3.91/manifest.json",
+  "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
+  "minAppVersion": "0.3.91",
+  "maxAppVersion": null,
+  "archiveFormat": "tar-gzip",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.5/official/packages/official-theme-4814be1c84d4aa719ad8c155/0.3.91/package.tar.gz",
+  "packageBytes": 3004,
+  "packageSha256": "22385840585a0f449011ceb2d62a85c4031f763a092e6168486a3fddd2d605f3",
+  "entrypoint": "겉모양/숲빛 서재/theme.json",
+  "files": [
+    {
+      "path": "겉모양/숲빛 서재/LICENSE",
+      "bytes": 1072,
+      "sha256": "822aa521f4b8773e7031865c12ada6398727b206f7f6aa5fce6bf6b1826aac69"
+    },
+    {
+      "path": "겉모양/숲빛 서재/NOTICE",
+      "bytes": 425,
+      "sha256": "25df39425a179e555190964ea9cdeddc5f70ebb74342f6dc283d26bf2844012d"
+    },
+    {
+      "path": "겉모양/숲빛 서재/theme.json",
+      "bytes": 8422,
+      "sha256": "e284aad48493ed664da958bd897322e56115667034f60ceb33a5f265c3b16109"
+    }
+  ]
+}

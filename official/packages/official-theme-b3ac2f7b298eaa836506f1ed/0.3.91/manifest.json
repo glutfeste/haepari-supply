@@ -4,14 +4,14 @@
   "title": "종이와 해류",
   "kind": "theme",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.4/official/packages/official-theme-b3ac2f7b298eaa836506f1ed/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.5/official/packages/official-theme-b3ac2f7b298eaa836506f1ed/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.4/official/packages/official-theme-b3ac2f7b298eaa836506f1ed/0.3.91/package.tar.gz",
-  "packageBytes": 2188,
-  "packageSha256": "fe3b0c9be9b19985f82a61a0cd7d2466ea62236f460a47c8cdf5d9d784573a40",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.5/official/packages/official-theme-b3ac2f7b298eaa836506f1ed/0.3.91/package.tar.gz",
+  "packageBytes": 2968,
+  "packageSha256": "9c16e47767913b811e8a66cfbdc45e5f87da55f74032014e25777956756cdd74",
   "entrypoint": "겉모양/종이와 해류/theme.json",
   "files": [
     {
@@ -20,9 +20,14 @@
       "sha256": "822aa521f4b8773e7031865c12ada6398727b206f7f6aa5fce6bf6b1826aac69"
     },
     {
+      "path": "겉모양/종이와 해류/NOTICE",
+      "bytes": 426,
+      "sha256": "75745f4b99d9d25903aeba0bdf64cd060782374cf289faf4f8984d9f05d6434f"
+    },
+    {
       "path": "겉모양/종이와 해류/theme.json",
-      "bytes": 5219,
-      "sha256": "bf1d7b7e15d3801d4e1d2f54e450dfada25a31cf18b0a23dda8818351441c37a"
+      "bytes": 8429,
+      "sha256": "55c28abe37fbad990d74691a4a6b3c0487e68801f13c8eb32925b0b166e6b1d3"
     }
   ]
 }
