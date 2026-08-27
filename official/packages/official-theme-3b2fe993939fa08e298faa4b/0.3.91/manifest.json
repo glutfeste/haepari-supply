@@ -4,14 +4,14 @@
   "title": "자주 기록실",
   "kind": "theme",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.5/official/packages/official-theme-3b2fe993939fa08e298faa4b/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.6/official/packages/official-theme-3b2fe993939fa08e298faa4b/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.5/official/packages/official-theme-3b2fe993939fa08e298faa4b/0.3.91/package.tar.gz",
-  "packageBytes": 2950,
-  "packageSha256": "72073cf3552a2492797324c128748acffa6b905aace623b14f286b545e79490b",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.6/official/packages/official-theme-3b2fe993939fa08e298faa4b/0.3.91/package.tar.gz",
+  "packageBytes": 2949,
+  "packageSha256": "9e8d4904fe62055ee9f581c4a4bb49993d9f8d22ec9fb66836e8dd75a5dbe4d5",
   "entrypoint": "겉모양/자주 기록실/theme.json",
   "files": [
     {
@@ -22,12 +22,12 @@
     {
       "path": "겉모양/자주 기록실/NOTICE",
       "bytes": 428,
-      "sha256": "a27a5e6aba0dd673bb7647e134e4a6272377041c999cf2fe035d12e2fa782076"
+      "sha256": "1cabcaa19e3546c7815bb2bdd2fb57018f311d2662b9ffcfbd8d74d26611b5d9"
     },
     {
       "path": "겉모양/자주 기록실/theme.json",
       "bytes": 8394,
-      "sha256": "c5712d54e68adcc8d434067cca5cd9336b89f8c80041a6dcb89ffbba8ab75b80"
+      "sha256": "4a1c0448f117b09662e2f0c0ff84e85103b3f52be48b46372033e2b48ce59a12"
     }
   ]
 }

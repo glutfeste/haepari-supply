@@ -4,14 +4,14 @@
   "title": "먹장부",
   "kind": "theme",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.5/official/packages/official-theme-9bdc83decbfcd42e9372258c/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.6/official/packages/official-theme-9bdc83decbfcd42e9372258c/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.5/official/packages/official-theme-9bdc83decbfcd42e9372258c/0.3.91/package.tar.gz",
-  "packageBytes": 2830,
-  "packageSha256": "93f93742f6dd263441392ee834717d9510a191c242e794729abde6cb7e33344c",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.6/official/packages/official-theme-9bdc83decbfcd42e9372258c/0.3.91/package.tar.gz",
+  "packageBytes": 2832,
+  "packageSha256": "606fbb4e2bda49871457c62d2eb57f79fef11799785cc88c971b64bdc46bab0a",
   "entrypoint": "겉모양/먹장부/theme.json",
   "files": [
     {
@@ -22,12 +22,12 @@
     {
       "path": "겉모양/먹장부/NOTICE",
       "bytes": 419,
-      "sha256": "f8814cbcbd9aefd671cdf5275b91ce438a8572eb1591b6bcca7832dd0659f5b5"
+      "sha256": "7f0b437dd944d93e3c611f50215dc25314dec2aaae40542a3926691673e15853"
     },
     {
       "path": "겉모양/먹장부/theme.json",
       "bytes": 8244,
-      "sha256": "585119e70c98594e3452e32fc24d78de85576b31ceb98db29e34b98d482d043d"
+      "sha256": "24e19c23ec5fc375a246958530ef0c98db200034cc171292a0604d837c448706"
     }
   ]
 }

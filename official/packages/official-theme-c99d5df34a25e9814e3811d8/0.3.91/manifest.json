@@ -4,14 +4,14 @@
   "title": "온기 원고",
   "kind": "theme",
   "version": "0.3.91",
-  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.5/official/packages/official-theme-c99d5df34a25e9814e3811d8/0.3.91/manifest.json",
+  "source": "https://github.com/glutfeste/haepari-supply/blob/antarctic-0.3.91.6/official/packages/official-theme-c99d5df34a25e9814e3811d8/0.3.91/manifest.json",
   "license": "LicenseRef-Haepari-Proprietary AND (MIT)",
   "minAppVersion": "0.3.91",
   "maxAppVersion": null,
   "archiveFormat": "tar-gzip",
-  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.5/official/packages/official-theme-c99d5df34a25e9814e3811d8/0.3.91/package.tar.gz",
-  "packageBytes": 2954,
-  "packageSha256": "eba2bfebed96d7226481839913e1c63c53cf5e4c013a0a6ecca3e4a0ea83aefa",
+  "packageUrl": "https://raw.githubusercontent.com/glutfeste/haepari-supply/antarctic-0.3.91.6/official/packages/official-theme-c99d5df34a25e9814e3811d8/0.3.91/package.tar.gz",
+  "packageBytes": 2953,
+  "packageSha256": "2201ec16f966f4e9a98690cef21a518e8fd270787552e76c93993b8e2e1c29ea",
   "entrypoint": "겉모양/온기 원고/theme.json",
   "files": [
     {
@@ -22,12 +22,12 @@
     {
       "path": "겉모양/온기 원고/NOTICE",
       "bytes": 428,
-      "sha256": "c26acf9e18163384b289b3408e92d2b7bc4444900b5e93dfc723911e02a08eb2"
+      "sha256": "e7ff9c84ec532c9a3907c1c06e586c78d0701752f5a7f09bc5acbda7061fb646"
     },
     {
       "path": "겉모양/온기 원고/theme.json",
       "bytes": 8353,
-      "sha256": "2563ccaab3766bf004859f2d2eeaef8e52958fecc3150c191d0df16c88834d2e"
+      "sha256": "aa96f13d57129d7d722255e84297fd78fb759a126783226ed4fe3572aa378f65"
     }
   ]
 }
